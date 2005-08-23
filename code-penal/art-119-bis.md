@@ -1,0 +1,2 @@
+# Art. 119 bis
+(Loi n° 01-09 du 26 Juin 2001) Est puni d'un emprisonnement de six (6) mois à trois (3) ans et d'une amende de 50.000 DA à 200.000 DA tout magistrat, tout fonctionnaire, tout officier public ainsi que toute personne parmi celles visées à l'article 119 du présent code qui cause par sa négligence manifeste le vol ou le détournement ou la détérioration ou la perte des deniers publics ou privés ou des effets en tenant lieu ou des pièces, titres, actes, effets mobiliers qui étaient entre ses mains, soit en vertu, soit à raison de ses fonctions.

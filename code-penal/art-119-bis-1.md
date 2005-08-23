@@ -1,0 +1,2 @@
+# Art. 119 bis 1
+(Loi n° 01-09 du 26 Juin 2001) Est puni d'un emprisonnement d'un (1) an à cinq (5) ans et d'une amende de 50.000 DA à 500.000 DA, quiconque aura volontairement fait des moyens de l'Etat, d'une collectivité locale, d'un organisme de droit public ou de l'un des organismes visés à l'article 119 du présent code, un usage contraire à l'intérêt de celui-ci à des fins personnelles ou dans l'intérêt d'un tiers.

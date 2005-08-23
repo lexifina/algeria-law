@@ -1,0 +1,4 @@
+# Art. 110 bis
+(Loi n° 82-04 du 13 février 1982) Tout officier de police judiciaire qui refuse de présenter aux personnes habilitées à exercer ce contrôle, le registre spécial prévu par l'article 52, alinéa 3 du code de procédure pénale sur lequel doivent figurer les noms des personnes gardées à vue, est coupable du délit visé à l'article 110 et puni des mêmes peines.
+Tout officier de police judiciaire qui s'oppose, malgré les injonctions faites conformément à l'article 51 du code de procédure pénale, par le procureur de la République à l'examen médical d'une personne gardée à vue, placée sous son autorité, est puni d'un emprisonnement d'un (1) mois à trois mois et d'une amende de 500 à 1.000 DA ou de l'une de ces deux peines seulement.
+(Abrogé par la loi n° 04-15 du 10 novembre 2004) Tout fonctionnaire ou agent qui exerce ou ordonne d'exercer la torture pour obtenir des aveux est puni d'un emprisonnement de 6 mois à 3 ans.

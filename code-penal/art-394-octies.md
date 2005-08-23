@@ -1,0 +1,2 @@
+# Art. 394 octies
+(Loi n° 04-15 du 10 novembre 2004) Sans préjudice des droits des tiers de bonne foi, il sera procédé à la confiscation des instruments, programmes et moyens utilisés dans la commission de l'infraction ainsi qu'à la fermeture des sites, objets de l'une des infractions prévues à la présente section, et des locaux et lieux d'exploitation dans le cas où le propriétaire en est informé.

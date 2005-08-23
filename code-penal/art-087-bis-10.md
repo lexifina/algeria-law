@@ -1,0 +1,3 @@
+# Art. 87 bis 10
+(loi n° 01-09 du 26 Juin 2001) Quiconque prêche ou tente de prêcher dans une mosquée ou tout autre lieu public consacré à la prière, sans être nommé, agréé ou autorisé à cette fin par l'autorité publique habilitée, est puni d'un emprisonnement d'un an (1) à trois (3) ans et d'une amende de 10.000 DA à 100.000 DA.
+Est puni d'un emprisonnement de trois (3) ans à cinq ans et d'une amende de 50.000 DA à 200.000 DA quiconque par prêche ou par toute autre action, entreprend une activité contraire à la noble mission de la mosquée ou de nature à attenter à la cohésion de la société ou à faire l'apologie et la propagande des actes visés à la présente section.

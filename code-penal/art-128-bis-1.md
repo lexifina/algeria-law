@@ -1,0 +1,2 @@
+# Art. 128 bis 1
+(Loi n° 01-09 du 26 Juin 2001) Est puni de la réclusion à temps de cinq (5) ans à vingt (20) ans et d'une amende de 100.000 DA à 5.000.000 DA, quiconque à l'occasion de la préparation, de la négociation, de la conclusion ou de l'exécution d'un marché, contrat ou avenant conclu au nom de l'Etat ou de l'un des organismes visés à l'article 119 du présent code, perçoit ou tente de percevoir directement ou indirectement, à son profit ou au profit d'un tiers, une rémunération ou un avantage de quelque nature que ce soit.

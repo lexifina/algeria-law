@@ -1,0 +1,2 @@
+# Art. 333 bis
+(Loi n° 82-04 du 13 février 1982) Est puni d'un emprisonnement de deux mois à deux ans et d'une amende de 500 à 2.000 DA quiconque aura fabriqué, détenu, importé ou fait importer en vue de faire commerce, distribution, location, affichage ou exposition, expose ou tente d'exposer aux regards du public, vendu ou tenté de vendre, distribué ou tenté de distribuer, tous imprimés, écrits, dessins, affiches, gravures, peintures, photographies, clichés, matrices, ou reproductions, tous objets contraires à la décence.

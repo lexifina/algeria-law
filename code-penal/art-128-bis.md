@@ -1,0 +1,5 @@
+# Art. 128 bis
+(Loi n° 01-09 du 26 Juin 2001) Sont punis d'un emprisonnement de deux (2) ans à dix (10) ans et d'une amende de 500.000 DA à 5.000.000 DA.
+1)- Toute personne agissant pour le compte de l'Etat, des collectivités locales ou de l'un des organismes visés à l'article 119 du présent code qui passe, vise ou révise un contrat, une convention, un marché ou un avenant en violation des dispositions législatives ou réglementaires en vigueur, en vue de procurer à autrui un avantage injustifié.
+2)- Tout commerçant, industriel, artisan, entrepreneur du secteur privé, ou, en général, toute personne physique qui passe, même à titre occasionnel, un contrat ou un marché avec l'Etat ou l'un des organismes visés à l'article 119 du présent code, en mettant à profit l'autorité ou l'influence des agents des organismes précités pour majorer les prix qu'ils pratiquent normalement et habituellement ou pour modifier, à leur avantage, la qualité des denrées ou des prestations ou les délais de livraison ou de fourniture.
+La tentative des délits prévus au présent article est punie des mêmes peines prévues pour les infractions consommées.

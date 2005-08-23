@@ -1,0 +1,3 @@
+# Art. 160 quinquies
+(Loi n° 90-15 du 14 juillet 1990) Est puni d'un emprisonnement de 1 à 10 ans et une amende de 5.000 à 20.000 DA quiconque, volontairement profane, détruit, mutile ou dégrade des stèles, des monuments et plaques commémoratives, des grottes et refuges ayant servi pendant la Révolution de libération, des centres de détention et de torture ou tous autres lieux classés comme symboles de la Révolution.
+Est puni de la même peine, quiconque, volontairement détruit, altère ou détériore les documents historiques ou en relation avec la Révolution conservés dans les musées ou dans toute autre structure ouverte au public.
