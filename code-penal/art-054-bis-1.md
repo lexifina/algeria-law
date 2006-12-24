@@ -1,0 +1,4 @@
+# Art. 54 bis 1
+Lorsqu'une personne physique, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi d'une peine dont le maximum est supérieur à cinq (5) ans d'emprisonnement commet, dans le délai de dix (10) ans à compter de l'expiration de la précédente peine, un délit puni de la même peine, le maximum des peines d'emprisonnement et d'amende encourues pour ce délit est porté obligatoirement au double.
+Le maximum de la peine privative de liberté est porté à vingt (20) ans d'emprisonnement, si celui fixé par la loi pour ce délit est supérieur à dix (10) ans. Si ce dernier est égal à vingt (20) ans d'emprisonnement, le minimum de la peine encourue sera alors porté obligatoirement au double.
+Le condamné encourt également une ou plusieurs des peines complémentaires prévues par l'article 9 de la présente loi.

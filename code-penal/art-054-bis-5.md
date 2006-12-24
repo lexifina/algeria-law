@@ -1,0 +1,3 @@
+# Art. 54 bis 5
+Lorsqu'une personne morale, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi, en ce qui concerne la personne physique, d'une amende dont le maximum est supérieur à 500.000 DA, engage sa responsabilité pénale par la commission d'un crime, le taux maximum de l'amende applicable est égal à dix fois le maximum de celle prévue par la loi qui réprime ce crime.
+Lorsqu'il s'agit d'un crime pour lequel aucune peine d'amende n'est prévue à l'encontre de la personne physique, l'amende maximale applicable à la personne morale, en cas de récidive, est de 20.000.000 de DA si ce crime est puni de la peine de mort ou de la réclusion à perpétuité. Cette amende est de 10.000.000 DA, si le crime est puni de la réclusion à temps.

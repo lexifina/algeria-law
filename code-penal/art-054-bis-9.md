@@ -1,0 +1,2 @@
+# Art. 54 bis 9
+Lorsqu'une personne morale, déjà condamnée définitivement pour une contravention, engage sa responsabilité pénale, dans le délai d'un an à compter de l'expiration de la précédente peine, par la même contravention, le taux maximum de l'amende applicable est égal à dix (10) fois le maximum de celle prévue par la loi qui réprime cette contravention en ce qui concerne la personne physique.

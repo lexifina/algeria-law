@@ -1,0 +1,4 @@
+# Art. 53 bis 1
+Si le crime est passible de la peine de mort ou de celle de la réclusion à perpétuité et qu'il est fait application de la peine privative de liberté atténuée et que le condamné a des antécédents judiciaires au sens de l'article 53 bis 5 ci-dessous, une amende peut être prononcée cumulativement dont le minimum est de 1.000.000 de DA et le maximum de 2.000.000 de DA dans le premier cas et de 500.000 de DA à 1.000.000 de DA dans le deuxième cas.
+Si le crime est passible de la réclusion à temps et qu'il est fait application de la peine privative de liberté atténuée, une amende de 100.000 DA à 1.000.000 de DA peut être également prononcée à l'encontre du condamné qui a des antécédents judiciaires.
+Si l'amende est prévue cumulativement avec celle de la réclusion, elle doit être prononcée également à son encontre.

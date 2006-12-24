@@ -1,0 +1,3 @@
+# Art. 54 bis 8
+Lorsqu'une personne morale, déjà condamnée définitivement pour un délit, engage sa responsabilité pénale, dans le délai de cinq (5) ans à compter de l'expiration de la précédente peine, soit par le même délit, soit par un délit qui lui est assimilé au regard des règles de la récidive, le taux maximum de l'amende applicable est égal à dix (10) fois le maximum de celle qui est prévue par la loi qui réprime ce délit, en ce qui concerne la personne physique.
+Lorsqu'il s'agit d'un délit pour lequel aucune peine d'amende n'est prévue en ce qui concerne la personne physique, l'amende maximale applicable à la personne morale, en cas de récidive, est de 5.000.000 de DA.

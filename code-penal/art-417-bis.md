@@ -1,4 +1,3 @@
 # Art. 417 bis
-(Ordonnance n° 75-47 du 17 juin 1975) Quiconque, par violences, menaces ou fraude, détourne ou fait détourner de son trajet un aéronef, est puni de la peine de mort.
-La peine est la réclusion à temps de dix à vingt ans, lorsque le détournement a pour objet un moyen de transport maritime ou terrestre.
-Les articles de 418 à 420 sont abrogés par la loi n° 01-09 du 26 Juin 2001.
+Quiconque, par violence ou menace de violence s'empare ou prend le contrôle d'un aéronef à bord duquel des personnes ont pris place est puni de la peine de mort.
+La peine est la réclusion à temps de dix (10) à vingt (20) ans et l'amende de 1.000.000 de DA à 2.000.000 de DA, lorsque les faits prévus à l'alinéa précédent ont pour objet un moyen de transport maritime ou terrestre

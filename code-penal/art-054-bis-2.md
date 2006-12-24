@@ -1,0 +1,3 @@
+# Art. 54 bis 2
+Lorsqu'une personne physique, déjà condamnée définitivement pour un crime ou pour un délit puni par la loi d'une peine dont le maximum est supérieur à cinq (5) ans d'emprisonnement, commet, dans le délai de cinq (5) ans à compter de l'expiration de la précédente peine, un délit puni par la loi d'une peine dont le maximum est égal ou inférieur à cinq (5) ans d'emprisonnement, le maximum des peines d'emprisonnement et d'amende encourues pour ce délit est porté obligatoirement au double.
+Peuvent également être prononcées une ou plusieurs des peines complémentaires prévues par l'article 9 de la présente loi.
