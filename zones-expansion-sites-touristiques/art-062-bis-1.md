@@ -1,0 +1,2 @@
+# Art. 62 bis 1
+Les sanctions prévues par les dispositions des articles 56 à 62 de la présente ordonnance sont prononcées par le conseil de la concurrence sur la base de critères ayant trait notamment à la gravité de la pratique incriminée, au préjudice causé à l'économie, aux bénéfices cumulés par les contrevenants, au niveau de collaboration des entreprises incriminées avec le conseil de la concurrence pendant l'instruction de l'affaire et à l'importance de la position sur le marché de l'entreprise mise en cause
