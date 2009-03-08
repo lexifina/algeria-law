@@ -1,0 +1,2 @@
+# Art. 303 bis 15
+Les dispositions de l'article 60 bis relatives à la période de sûreté sont applicables aux infractions prévues à la présente section
