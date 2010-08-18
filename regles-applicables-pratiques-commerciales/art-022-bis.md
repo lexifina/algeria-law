@@ -1,0 +1,4 @@
+# Art. 22 bis
+Les structures des prix des biens et services, notamment celles ayant fait l'objet de mesures de fixation ou de plafonnement des marges et des prix, conformément à la législation et à la réglementation en vigueur, doivent être déposées auprès des autorités concernées, préalablement à la vente ou à la prestation de services.
+L'engagement de dépôt des structures des prix et des services est également applicable dans les mêmes conditions lorsque ces biens et services font l'objet de mesures d'homologation sur les marges et les prix.
+Les conditions et les modalités de dépôt des structures de prix par les catégories d'agents économiques concernées, le modèle-type de la fiche de la structure des prix et les autorités habilitées auprès desquelles elle doit être déposée sont fixés par voie réglementaire
