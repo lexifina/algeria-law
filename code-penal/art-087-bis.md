@@ -7,3 +7,9 @@
 - porter atteinte à l'environnement ou introduire dans l'atmosphère, sur le sol, dans le sous-sol ou dans les eaux y compris celles de la mer territoriale, une substance de nature à mettre en péril la santé de l'homme ou des animaux ou le milieu naturel;
 - faire obstacle à l'action des autorités publiques ou au libre exercice de culte et des libertés publiques ainsi qu'au fonctionnement des établissements concourant au service public;
 - faire obstacle au fonctionnement des institutions publiques ou porter atteinte à la vie ou aux biens de leurs agents, ou faire obstacle à l'application des lois et règlements.
+— le détournement d'aéronefs, de navires, ou de tout autre moyen de transport ;
+— la dégradation des installations de navigation aérienne, maritime ou terrestre ;
+— la destruction ou la détérioration des moyens de communication ;
+— la prise d'otages ;
+— les attentats avec utilisation d'explosifs ou de matières biologiques, chimiques, nucléaires ou radioactives ;
+— le financement d'un terroriste ou d'une organisation terroriste

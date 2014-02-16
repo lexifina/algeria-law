@@ -1,0 +1,4 @@
+# Art. 295 bis 1
+Constitue une discrimination, toute distinction, exclusion, restriction ou préférence fondée sur le sexe, la race, la couleur, l'ascendance ou l'origine nationale ou ethnique, ou le handicap, qui a pour but ou pour effet d'entraver ou de compromettre la reconnaissance, la jouissance ou l'exercice, dans des conditions d'égalité, des droits de l'Homme et des libertés fondamentales dans les domaines politique, économique, social et culturel ou dans tout autre domaine de la vie publique.
+La discrimination est punie d'un emprisonnement de six (6) mois à trois (3) ans et d'une amende de 50.000 DA à 150.000 DA.
+Est passible des mêmes peines, quiconque, publiquement, incite à la haine ou à la discrimination envers une personne ou un groupe de personnes en raison de leur appartenance raciale ou ethnique ou organise, propage, encourage ou mène des actions de propagande aux mêmes fins

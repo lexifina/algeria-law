@@ -1,0 +1,3 @@
+# Art. 333 bis 1
+Est puni d'un emprisonnement de cinq (5) ans à dix (10) ans et d'une amende de 500.000DA à 1.000.000 DA quiconque, représente, par quelque moyen que ce soit, un mineur de moins de dix-huit (18) ans s'adonnant à des activités sexuelles explicites, réelles ou simulées, ou représente des organes sexuels d'un mineur, à des fins principalement sexuelles, ou fait la production, la distribution, la diffusion, la propagation, l'importation, l'exportation, l'offre, la vente ou la détention des matériels pornographiques mettant en scène des mineurs.
+En cas de condamnation, la juridiction prononce la confiscation des moyens qui ont servi à la commission de l'infraction ainsi que les biens obtenus de façon illicite, sous réserve des droits des tiers de bonne foi
