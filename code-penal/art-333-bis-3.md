@@ -1,0 +1,3 @@
+# Art. 333 bis 3
+A moins que le fait ne constitue une infraction plus grave, est puni d'un emprisonnement d'un (1) an à trois (3) ans et d'une amende de 100.000 DA à 500.000 DA, toute agression, commise par surprise, violence, contrainte ou menace portant atteinte à l'intégrité sexuelle de la victime.
+La peine est l'emprisonnement de deux (2) à cinq (5) ans si l'auteur est un proche parent (mahrim) ou si la victime est une mineure de seize (16) ans ou si le fait commis a été facilité par la vulnérabilité, la maladie, l'infirmité, la déficience physique ou psychique de la victime ou par un état de grossesse ; que ces circonstances soient apparentes ou connues de l'auteur
