@@ -1,0 +1,6 @@
+# Art. 87 bis 11
+Est puni de la réclusion à temps de cinq (5) à dix (10) ans et d'une amende de 100.000 DA à 500.000 DA, tout algérien ou ressortissant étranger résident en Algérie d'une manière légale ou illégale, se rend ou tente de se rendre dans un autre Etat, dans le dessein de commettre, d'organiser ou de préparer ou de participer à des actes terroristes ou afin de dispenser ou de recevoir un entraînement pour les commettre.
+Est puni de la même peine, quiconque :
+— fournit ou collecte délibérément des fonds, par quelque moyen que ce soit, directement ou indirectement, afin de les utiliser ou dont il sait qu'ils seront utilisés pour financer les voyages des personnes qui se rendent dans un autre Etat dans le dessein de commettre les actes prévus à l'alinéa 1er du présent article.
+— finance ou organise délibérément des voyages pour les personnes qui se rendent dans un autre Etat dans le dessein de commettre, d'organiser ou de préparer ou de participer à des actes terroristes ou afin de dispenser ou de recevoir un entraînement pour les commettre ou de faciliter le voyage.
+— utilise les technologies de l'information et de la communication pour commettre les actes prévus au présent article

@@ -1,0 +1,2 @@
+# Art. 87 bis 12
+Est puni de la réclusion à temps de cinq (5) à dix (10) ans et d'une amende de 100.000 DA à 500.000 DA, quiconque, à l'aide des technologies de l'information et de la communication, recrute des personnes pour le compte d'un terroriste, d'une association, corps, groupe ou organisation dont le but ou les activités tombent sous le coup des dispositions de cette section, ou prend en charge son organisation ou soutient ses actes ou activités ou diffuse ses idées d'une manière directe ou indirecte
