@@ -1,0 +1,2 @@
+# Art. 95 bis 5
+Sans préjudice des droits des tiers de bonne foi, il est procédé à la confiscation des fonds, biens, dons, instruments et moyens utilisés dans la commission de l'une ou de plusieurs des infractions prévues aux articles 95 bis, 95 bis 1 et 95 bis 2 de la présente loi, ainsi que les fonds en résultant et à la fermeture du compte bancaire ou postal par le biais duquel les fonds ont été reçus
