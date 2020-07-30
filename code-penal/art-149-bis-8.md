@@ -1,0 +1,2 @@
+# Art. 149 bis 8
+Sans préjudice des peines complémentaires prévues par le présent code, le condamné pour l'une des infractions prévues par la présente section, peut être privé de l'utilisation de tout réseau électronique, système d'information ou de tout moyen de technologies de l'information et de la communication pour une période maximale de trois (3) ans, à compter de la date d'expiration de la peine initiale, de la libération du condamné ou de la date où le jugement est devenu définitif pour le condamné non détenu

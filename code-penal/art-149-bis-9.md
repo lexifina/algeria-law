@@ -1,0 +1,2 @@
+# Art. 149 bis 9
+Sans préjudice des droits des tiers de bonne foi, il est procédé à la confiscation des instruments, programmes et moyens utilisés dans la commission d'une ou de plusieurs des infractions prévues par la présente section et à la fermeture du site ou du compte électronique utilisé dans la commission de l'infraction ou à l'interdiction de l'accès à ce site et à la fermeture des locaux ou lieux d'exploitation dans le cas où le propriétaire a eu connaissance de l'infraction
