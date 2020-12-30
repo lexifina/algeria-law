@@ -1,0 +1,1 @@
+« Je jure par Dieu Tout Puissant d'exercer en toute impartialité et neutralité mes fonctions, de préserver le secret des délibérations et de m'interdire de prendre une position publique sur toute question relevant de la compétence de la Cour constitutionnelle ».
