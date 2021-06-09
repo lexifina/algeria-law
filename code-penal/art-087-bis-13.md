@@ -1,0 +1,7 @@
+# Art. 87 bis 13
+Il est institué une liste nationale des personnes et entités terroristes qui commettent l'un des actes prévus à l'article 87 bis du présent code, qui sont classifiés «personne terroriste» ou «entité terroriste», par la commission de classification des personnes et entités terroristes, appelée ci-après la «commission».
+Aucune personne ou entité, n'est inscrite sur la liste mentionnée au présent article, que si elle fait l'objet d'enquête préliminaire, de poursuite pénale, ou dont la culpabilité est déclarée par un jugement ou un arrêt.
+Il est entendu par entité au sens du présent article, toute association, corps, groupe ou organisation, quelle que soit leur forme ou dénomination, dont le but ou les activités tombent sous le coup des dispositions de l'article 87 bis du présent code.
+La décision d'inscription sur la liste nationale est publiée au Journal officiel de la République algérienne, démocratique et populaire. Cette publication vaut notification des concernés, qui ont le droit de demander, leur radiation de la liste nationale, à la commission, trente (30) jours à partir de la date de publication de la décision d'inscription.
+La commission nationale peut radier toute personne ou entité de la liste nationale, d'office ou à la demande de la personne ou de l'entité concernée, lorsque les motifs de son inscription ne sont plus justifiés.
+Les modalités d'application du présent article sont fixées par voie réglementaire
