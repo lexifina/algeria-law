@@ -1,0 +1,6 @@
+# Art. 407 bis
+Est puni d'un emprisonnement de cinq (5) ans à dix (10) ans et d'une amende de 500.000 DA à 1.000.000 DA, quiconque, volontairement, détruit ou dégrade, par tout moyen, des infrastructures de base, un matériel, biens ou mobilier appartenant à l'Etat, aux collectivités locales ou aux établissements et institutions publics.
+La peine est l'emprisonnement de sept (7) ans à douze (12) ans et l'amende de 700.000 DA à 1.200.000 DA, lorsque la destruction ou la dégradation entraîne l'arrêt total ou partiel de l'infrastructure de base, des services de l'Etat, des collectivités locales ou des établissements et institutions publics, ou entrave le fonctionnement de leurs activités ou cause des dégâts corporels.
+La peine est la réclusion à temps de quinze (15) ans à vingt (20) ans et l'amende de 1.500.000 DA à 2.000.000 DA, lorsque la destruction ou la dégradation porte atteinte à la sûreté ou à l'ordre public, ou si les actes suscités sont perpétrés dans le cadre d'un groupe criminel organisé, ou ont été commis avec préméditation ou guet-apens ou avec port d'arme.
+La peine est la réclusion à perpétuité, sauf peine plus grave prévue par la loi, si cette infraction entraîne la mort.
+La tentative des délits prévus au présent article, est punie de la même peine prévue pour le délit consommé.

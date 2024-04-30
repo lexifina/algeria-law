@@ -1,0 +1,8 @@
+# Art. 17 bis
+En cas de condamnation pour les infractions d'harcèlement, d'agression, d'exploitation sexuelle, de maltraitance ou de violence, la juridiction, d'office ou sur demande de la victime, peut :
+1. interdire au condamné de contacter la victime ou de s'approcher du lieu où elle se trouve, pour la distance fixée par le juge ou de communiquer avec elle par tout moyen, pour une période ne dépassant pas trois (3) ans, à compter de la date d'expiration de la peine à laquelle il a été condamné, ou de la date du prononcé de la décision judiciaire lorsque la peine privative de liberté a été prononcée avec sursis, ou si elle consiste en une amende ou en une peine alternative ;
+2. soumettre le condamné, au cours de la période prévue au paragraphe 1 ci-dessus, ou durant l'exécution de la peine privative de liberté, à un traitement psychologique approprié. L'exécution provisoire de cette mesure peut être ordonnée, nonobstant toute voie de recours ;
+Le médecin traitant établit, au moins, un rapport tous les trois (3) mois, sur l'évolution de l'état du condamné au traitement, qu'il adresse au juge de l'application des peines. Il peut proposer de mettre fin à cette mesure avant l'échéance fixée, au moyen d'un rapport distinct qui justifie cet avis. Dans le cas où le juge décide de mettre fin à cette mesure, il doit en aviser la victime.
+Quiconque enfreint l'interdiction prévue au présent article, est passible des peines prévues à l'article 16 bis 6 du présent code.
+Est puni d'un emprisonnement de deux (2) ans à cinq (5) ans et d'une amende de 200.000 DA à 500.000 DA, quiconque exerce des menaces contre la victime pour la forcer à retirer sa plainte ou à pardonner à l'auteur.
+Le pardon de la victime met fin à l'interdiction prévue au présent article.

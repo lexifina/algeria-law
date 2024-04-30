@@ -1,0 +1,2 @@
+# Art. 303 bis 44
+Tout en conservant les droits des tiers de bonne foi, la juridiction ordonne la confiscation des fonds et/ou des moyens utilisés et/ou obtenus pour commettre les infractions prévues dans la présente section et la fermeture du site web par lequel l'infraction a été commise ou le rendre inaccessible, ainsi que la fermeture du local ou du lieu d'exploitation si l'infraction a été commise à la connaissance de son propriétaire.

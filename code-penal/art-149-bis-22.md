@@ -1,0 +1,2 @@
+# Art. 149 bis 22
+Sans préjudice des peines prévues par les lois spéciales, quiconque s'abstient ou refuse d'obtempérer aux injonctions ou signaux des agents de la force publique dans l'exercice de leurs fonctions, en dépit de l'avertissement qui lui a été adressé, est puni d'un emprisonnement de deux (2) mois à un (1) an et d'une amende de 25.000 DA à 100.000 DA, ou de l'une de ces deux peines seulement.

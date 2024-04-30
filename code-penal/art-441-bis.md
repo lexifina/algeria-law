@@ -1,5 +1,5 @@
 # Art. 441 bis
-(Loi n° 82-04 du 13 février 1982) Sont punis d'une amende de 100 à 1.000 DA et peuvent l'être, en outre, de l'emprisonnement de 10 jours au moins à 2 mois au plus:
+Sont punis d'un emprisonnement de dix (10) jours à deux (2) mois et d'une amende de 8.000 DA à 16.000 DA, ou de l'une de ces deux peines : 1. ceux qui laissent errer des animaux malfaisants ou dangereux.
 1°) ceux qui laissent errer des animaux malfaisants ou dangereux, excitent un animal à attaquer ou n'empêchent pas un animal dont ils ont la garde, d'attaquer autrui;
 2°) ceux qui confient une arme à une personne inexpérimentée ou ne jouissant pas de ses facultés mentales;
 3°) ceux qui font ou laissent courir les chevaux, bêtes de trait, de charge ou monture, à l'intérieur d'un lieu habité ou violent les règlements concernant le chargement, la rapidité ou la conduite des voitures;

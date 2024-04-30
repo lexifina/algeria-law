@@ -1,0 +1,2 @@
+# Art. 87 bis 17
+La juridiction ordonne la confiscation des fonds et produits résultant des infractions prévues à la présente section, même dans le cas ou elle prononce l'extinction de l'action publique par prescription à cause du décès du prévenu ou pour toute autre cause d'extinction de l'action publique prévue par la loi ou si le prévenu n'a pas été identifié, sous réserve des droits des tiers de bonne foi.

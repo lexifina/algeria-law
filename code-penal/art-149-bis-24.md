@@ -1,0 +1,2 @@
+# Art. 149 bis 24
+Sans préjudice des dispositions des articles 39 et 40 de la présente loi, sont considérés justifiés les actes commis par les membres de la force publique, pendant ou à l'occasion de l'exercice de leurs missions visant à mettre fin à l'infraction, lorsque cela est nécessaire, pour écarter un danger grave, immédiat et imminent pour leur vie ou leur sécurité physique ou pour la vie ou la sécurité physique d'autrui, dès lors que les enquêtes menées par les autorités judiciaires concluent que les éléments de la légitime défense sont établis.

@@ -1,0 +1,3 @@
+# Art. 149 bis 19
+Est puni d'un emprisonnement de deux (2) ans à cinq (5) ans et d'une amende de 200.000 DA à 500.000 DA, quiconque s'introduit, en dépit de l'avertissement qui lui a été adressé, ou incite à s'introduire dans un siège des services de sécurité dans l'intention de troubler l'ordre public.
+Si l'intrusion est commise par plus de trois (3) personnes, par l'usage de la force, ou par port d'arme ou en exécution d'un plan concerté, la peine est l'emprisonnement de sept (7) à quinze (15) ans et l'amende de 300.000 DA à 1.500.000 DA. La tentative du délit prévu au présent article, est punie des peines prévues pour le délit consommé.

@@ -1,0 +1,3 @@
+# Art. 87 bis 15
+Est puni d'une peine de réclusion à temps de dix (10) ans à vingt (20) ans et d'une amende de 1.000.000 DA à 2.000.000 DA, quiconque finance la prolifération des armes à destruction massive.
+Il est entendu par financement de la prolifération des armes de destruction massive, tout acte par lequel des personnes physiques ou entités, fournissent ou réunissent des fonds dans l'intention de les utiliser, en tout ou en partie, pour provoquer, encourager ou inciter, par quelque moyen que ce soit, directement ou indirectement, illicitement ou délibérément, quiconque à perpétrer des activités de prolifération des armes à destruction massive.

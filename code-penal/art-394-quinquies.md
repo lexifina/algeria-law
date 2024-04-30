@@ -1,2 +1,2 @@
 # Art. 394 quinquies
-(Loi n° 04-15 du 10 novembre 2004) Les peines prévues par la présente section sont portées au double lorsque l'infraction porte atteinte à la défense nationale aux organismes ou établissements de droits public, sans préjudice de l'application des peines plus sévères.
+La peine est l'emprisonnement de deux (2) ans à dix (10) ans et l'amende de 700.000 DA à 2.000.000 DA, lorsque les infractions prévues dans la présente section portent atteinte à la défense nationale, aux organismes ou établissements de droit public, sans préjudice de l'application des peines plus sévères.

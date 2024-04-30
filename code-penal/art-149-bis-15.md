@@ -1,0 +1,3 @@
+# Art. 149 bis 15
+Est puni des peines prévues par l'article 149 du présent code, quiconque dans l'intention de porter atteinte à son honneur, à sa délicatesse ou au respect dû à son autorité, outrage dans l'exercice de ses fonctions ou à l'occasion de cet exercice, un agent de la force publique, soit par paroles, gestes, menaces, envoi ou remise d'objet quelconque, soit par écrit ou dessin non rendu public.
+Est considéré comme outrage et puni comme tel, quiconque intentionnellement déchire, endommage ou jette, à la vue des agents de la force publique, un document manuscrit délivré ou remis de leur part, dans l'intention de porter atteinte au respect qui leur est dû.
