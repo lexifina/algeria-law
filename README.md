@@ -8,18 +8,20 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `constitution/` | Constitution de la République algérienne démocratique et populaire (the Constitution, revision of 2020) | 1 | As promulgated on 30 December 2020 (Décret présidentiel n° 20-442), 225 articles, the preamble and the two oaths |
-| `code-penal/` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966) | 1 | The Ministry of Justice edition of 2005, amended through Ordonnance n° 05-06 of 23 August 2005; the oldest version available (the edition carries no day) |
+| `constitution/` | Constitution de la République algérienne démocratique et populaire (révision de 2020) | 1 | As promulgated on 30 December 2020 (Décret présidentiel n° 20-442), 225 articles, the preamble and the two oaths |
+| `code-penal/` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 | 11 | The Ministry of Justice edition of 2005 (oldest version available), then each amending law printed in the Journal Officiel from 2006 to 2024 (Loi n° 06-23 to Loi n° 24-06), on the day of the issue that printed it |
 
 **Language.** The text is in French, the language of the official French edition of the Journal Officiel (the Arabic text is the original). English is not available from the publisher.
 
 **Source (Code pénal).** Ministère de la Justice, Code pénal, 4th edition (Éditions de l'ONTE, 2005), the French column of the bilingual edition, as hosted by UNODC SHERLOC (https://sherloc.unodc.org), retrieved 30 October 2026. The version is dated 23 August 2005, the last amending text it includes.
 
+**Source (amending laws).** Journal Officiel de la République Algérienne, French edition, one issue per amending law, from https://www.joradp.dz, retrieved 2 November 2026 (text layer, no OCR). Each version applies the articles the law gives in full; where the gazette leaves part of an article "(sans changement)" it is filled in from the earlier text, and the few articles where that could not be matched keep their earlier text (the version's commit message lists them).
+
 **Source (Constitution).** Journal Officiel de la République Algérienne no. 82 of 30 December 2020, French edition, from the Secrétariat Général du Gouvernement's site https://www.joradp.dz, retrieved 29 October 2026. Algeria publishes gazettes, not consolidated texts.
 
 ## Dates
 
-Each commit is dated at noon, Africa/Algiers, on the day the change took effect. The Constitution of 2020 took effect on its promulgation and publication, 30 December 2020. Earlier constitutions are not in this record.
+Each commit is dated at noon, Africa/Algiers, on the day the change took effect. The Constitution of 2020 took effect on its promulgation and publication, 30 December 2020. An amending law is dated by the issue of the Journal Officiel that printed it (a law takes effect on publication), unless the law itself sets a later day. Earlier constitutions are not in this record.
 
 ## How it is checked
 
@@ -27,8 +29,8 @@ Every version is read back from git on the day it took effect and on the day bef
 
 ## What "author" means
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist (`<law key>@joradp.invalid`). The one version here is credited to the promulgating decree, Décret présidentiel n° 20-442. The committer is always Lexifina.
+The author of a commit is the law that made the change, with an e-mail address that cannot exist (`<law key>@joradp.invalid`). The Constitution is credited to its promulgating decree (Décret présidentiel n° 20-442), and each later version of a code to the amending law printed in the Journal Officiel. A first version that is not the act as enacted is credited to its publisher as the oldest version available. The committer is always Lexifina.
 
 ## Limits
 
-This is a first build: the Constitution as promulgated in December 2020 and the Code pénal as of 2005 (later amendments are not included). Any later amendment and the rest of Algerian law are not included.
+This is a partial build: the Constitution as promulgated in December 2020, and the Code pénal from the 2005 Ministry edition with the amending laws of 2006 to 2024. Amendments that change only some alinéas, phrases or words are applied only where the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.

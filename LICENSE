@@ -2,6 +2,8 @@ The legal text is the Constitution of Algeria as published in the Journal Offici
 
 The Code pénal is the Ministère de la Justice (Algeria) edition of 2005 (Éditions de l'ONTE), French column, as hosted by UNODC SHERLOC, retrieved 30 October 2026. No licence is stated; the source is credited here.
 
+The amending laws are the texts printed in the Journal Officiel de la République Algérienne (French edition), Secrétariat Général du Gouvernement, https://www.joradp.dz, retrieved 2 November 2026. Official texts are not protected by copyright in Algeria: Ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins, article 11: "Les lois et règlements, les décisions et les actes administratifs des organes de l'Etat et des collectivités locales, les décisions de justice et la traduction officielle de ces textes ne sont pas soumises à la protection des droits d'auteur prévue par la présente ordonnance."
+
 Changes made by Lexifina: the text layer of the official PDF was converted to one Markdown file per article, one paragraph per line; spacing and apostrophes were normalised; titles, chapter headings and page headers were left out. The wording of the law was not changed.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

@@ -4,7 +4,8 @@
   "name": "Algeria",
   "level": "country",
   "repo": "https://github.com/lexifina/algeria-law",
-  "build": "built",
+  "build": "built: Constitution de la République algérienne démocratique et populaire (révision de 2020) (1 version); Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 (11 versions)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
-  "register_date": "2026-10-28"
+  "register_date": "2026-10-28",
+  "sources": 3
 }
