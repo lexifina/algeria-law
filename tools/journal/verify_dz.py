@@ -13,6 +13,8 @@ def flat(s):
 
 
 c = json.loads((B.ROOT / 'corpus.json').read_text(encoding='utf-8'))
+for f in sorted((B.ROOT / 'corpus.d').glob('*.json')):
+    c['acts'] += json.loads(f.read_text(encoding='utf-8'))['acts']
 bad = 0
 for act in c['acts']:
     for i, v in enumerate(act['versions']):

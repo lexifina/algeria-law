@@ -88,6 +88,40 @@
      "sha256": "aa3a8318ab9b2f63407a83882d24759712ff9c4bf0ba63e83c75e74afcedcaf0"
     }
    ]
+  },
+  {
+   "slug": "code-procedure-civile-administrative",
+   "short": "CPCA",
+   "title": "Code de procédure civile et administrative (Loi n° 08-09 du 25 février 2008)",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2008/F2008021.pdf",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 1065,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2008/F2008021.pdf",
+     "sha256": "ab20f3ce14bcfb9c1164397c55b2231c1106b9f61ea801480bc9448065e2e1a1"
+    },
+    {
+     "from": "2022-07-17",
+     "units": 1078,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2022/F2022048.pdf",
+     "sha256": "a4105adf4b719924d36c3d1284bf05269c28adea6437f0a450d3abaed2595711"
+    }
+   ]
+  },
+  {
+   "slug": "code-procedure-penale",
+   "short": "CPP",
+   "title": "Code de procédure pénale (Loi n° 25-14 du 3 août 2025)",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025054.pdf",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 890,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025054.pdf",
+     "sha256": "b79c32a3a0ebb23b3d21ea4634f1dc15e05733fc92da68d5a050f78f0d7096b2"
+    }
+   ]
   }
  ]
 }

@@ -10,6 +10,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution de la République algérienne démocratique et populaire (révision de 2020) | 1 | As promulgated on 30 December 2020 (Décret présidentiel n° 20-442), 225 articles, the preamble and the two oaths |
 | `code-penal/` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 | 11 | The Ministry of Justice edition of 2005 (oldest version available), then each amending law printed in the Journal Officiel from 2006 to 2024 (Loi n° 06-23 to Loi n° 24-06), on the day of the issue that printed it |
+| `code-procedure-civile-administrative/` | Code de procédure civile et administrative (Loi n° 08-09 du 25 février 2008) | 2 | As enacted by Loi n° 08-09 (in force 23 April 2009, one year after publication), then Loi n° 22-13 of 12 July 2022 as printed in the Journal Officiel n° 48 of 17 July 2022 |
+| `code-procedure-penale/` | Code de procédure pénale (Loi n° 25-14 du 3 août 2025) | 1 | The code of 2025 as enacted by Loi n° 25-14 (Journal Officiel n° 54 of 13 August 2025), 890 articles; the 1966 code it replaced is not included |
 
 **Language.** The text is in French, the language of the official French edition of the Journal Officiel (the Arabic text is the original). English is not available from the publisher.
 
