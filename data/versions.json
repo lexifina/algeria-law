@@ -122,6 +122,160 @@
      "sha256": "b79c32a3a0ebb23b3d21ea4634f1dc15e05733fc92da68d5a050f78f0d7096b2"
     }
    ]
+  },
+  {
+   "slug": "code-organisation-penitentiaire",
+   "short": "COP",
+   "title": "Code de l'organisation pénitentiaire et de la réinsertion sociale des détenus (Loi n° 05-04 du 6 février 2005)",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2005/F2005012.pdf",
+   "versions": [
+    {
+     "from": "2005-02-13",
+     "units": 174,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2005/F2005012.pdf",
+     "sha256": "0a7e550d170b691744764ab080cf917d67991ba66d882bae6255ebeb3e8dbe67"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-corruption",
+   "short": "Corruption",
+   "title": "Loi n° 06-01 du 20 février 2006 relative à la prévention et à la lutte contre la corruption",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2006/F2006014.pdf",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 73,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2006/F2006014.pdf",
+     "sha256": "70d3527da288ff1502c410b6676c0d1184a478d669b37cdeadb43823526c500b"
+    }
+   ]
+  },
+  {
+   "slug": "commune",
+   "short": "Commune",
+   "title": "Loi n° 11-10 du 22 juin 2011 relative à la commune",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2011/F2011037.pdf",
+   "versions": [
+    {
+     "from": "2011-07-03",
+     "units": 220,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2011/F2011037.pdf",
+     "sha256": "7edb6e3c458a9f4874391a4e8609ddfc149d40c9d2b3edae09a2cf4b9bfe7e7f"
+    }
+   ]
+  },
+  {
+   "slug": "partis-politiques",
+   "short": "Partis",
+   "title": "Loi organique n° 12-04 du 12 janvier 2012 relative aux partis politiques",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 84,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+     "sha256": "6f9ef1eac6862c4c979931ca09d4254c50f2d8364eaab51b98190c409faf230f"
+    }
+   ]
+  },
+  {
+   "slug": "information",
+   "short": "Information",
+   "title": "Loi organique n° 12-05 du 12 janvier 2012 relative à l'information",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 133,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+     "sha256": "6f9ef1eac6862c4c979931ca09d4254c50f2d8364eaab51b98190c409faf230f"
+    }
+   ]
+  },
+  {
+   "slug": "associations",
+   "short": "Associations",
+   "title": "Loi n° 12-06 du 12 janvier 2012 relative aux associations",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 74,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012002.pdf",
+     "sha256": "6f9ef1eac6862c4c979931ca09d4254c50f2d8364eaab51b98190c409faf230f"
+    }
+   ]
+  },
+  {
+   "slug": "wilaya",
+   "short": "Wilaya",
+   "title": "Loi n° 12-07 du 21 février 2012 relative à la wilaya",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012012.pdf",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 181,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2012/F2012012.pdf",
+     "sha256": "367efea546e0971fb94ed3274a2378a4cc446f34c81cbdaa594b2ff3fa3b02bc"
+    }
+   ]
+  },
+  {
+   "slug": "protection-enfant",
+   "short": "Enfant",
+   "title": "Loi n° 15-12 du 15 juillet 2015 relative à la protection de l'enfant",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2015/F2015039.pdf",
+   "versions": [
+    {
+     "from": "2015-07-19",
+     "units": 150,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2015/F2015039.pdf",
+     "sha256": "5f27be21a52c64774ca802e7412c0125532899b7a476276db4fe30d3638f66d9"
+    }
+   ]
+  },
+  {
+   "slug": "sante",
+   "short": "Santé",
+   "title": "Loi n° 18-11 du 2 juillet 2018 relative à la santé",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2018/F2018046.pdf",
+   "versions": [
+    {
+     "from": "2018-07-29",
+     "units": 450,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2018/F2018046.pdf",
+     "sha256": "791b0d9f29269ee59d67752b68c5ce141974ed2ef49b81e4ec8e5330eb210955"
+    }
+   ]
+  },
+  {
+   "slug": "regime-electoral",
+   "short": "Électoral",
+   "title": "Ordonnance n° 21-01 du 10 mars 2021 portant loi organique relative au régime électoral",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2021/F2021017.pdf",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 321,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2021/F2021017.pdf",
+     "sha256": "7e964efe18b114406cf98a1e5d61150b60857f5c7245ff5cff645b4e6e091430"
+    }
+   ]
+  },
+  {
+   "slug": "investissement",
+   "short": "Investissement",
+   "title": "Loi n° 22-18 du 24 juillet 2022 relative à l'investissement",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2022/F2022050.pdf",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 41,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2022/F2022050.pdf",
+     "sha256": "ee49ba034bb36ad5f82f7d4ca1c93eca060d5bd540eeb5578befef9b39f6c0c0"
+    }
+   ]
   }
  ]
 }

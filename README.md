@@ -12,6 +12,17 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `code-penal/` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 | 11 | The Ministry of Justice edition of 2005 (oldest version available), then each amending law printed in the Journal Officiel from 2006 to 2024 (Loi n° 06-23 to Loi n° 24-06), on the day of the issue that printed it |
 | `code-procedure-civile-administrative/` | Code de procédure civile et administrative (Loi n° 08-09 du 25 février 2008) | 2 | As enacted by Loi n° 08-09 (in force 23 April 2009, one year after publication), then Loi n° 22-13 of 12 July 2022 as printed in the Journal Officiel n° 48 of 17 July 2022 |
 | `code-procedure-penale/` | Code de procédure pénale (Loi n° 25-14 du 3 août 2025) | 1 | The code of 2025 as enacted by Loi n° 25-14 (Journal Officiel n° 54 of 13 August 2025), 890 articles; the 1966 code it replaced is not included |
+| `code-organisation-penitentiaire/` | Code de l'organisation pénitentiaire et de la réinsertion sociale des détenus (Loi n° 05-04 du 6 février 2005) | 1 | As enacted, from the Journal Officiel issue that printed it (2005-02-13); later amendments not yet applied |
+| `prevention-corruption/` | Loi n° 06-01 du 20 février 2006 relative à la prévention et à la lutte contre la corruption | 1 | As enacted, from the Journal Officiel issue that printed it (2006-03-08); later amendments not yet applied |
+| `commune/` | Loi n° 11-10 du 22 juin 2011 relative à la commune | 1 | As enacted, from the Journal Officiel issue that printed it (2011-07-03); later amendments not yet applied |
+| `partis-politiques/` | Loi organique n° 12-04 du 12 janvier 2012 relative aux partis politiques | 1 | As enacted, from the Journal Officiel issue that printed it (2012-01-15); later amendments not yet applied |
+| `information/` | Loi organique n° 12-05 du 12 janvier 2012 relative à l'information | 1 | As enacted, from the Journal Officiel issue that printed it (2012-01-15); later amendments not yet applied |
+| `associations/` | Loi n° 12-06 du 12 janvier 2012 relative aux associations | 1 | As enacted, from the Journal Officiel issue that printed it (2012-01-15); later amendments not yet applied |
+| `wilaya/` | Loi n° 12-07 du 21 février 2012 relative à la wilaya | 1 | As enacted, from the Journal Officiel issue that printed it (2012-02-29); later amendments not yet applied |
+| `protection-enfant/` | Loi n° 15-12 du 15 juillet 2015 relative à la protection de l'enfant | 1 | As enacted, from the Journal Officiel issue that printed it (2015-07-19); later amendments not yet applied |
+| `sante/` | Loi n° 18-11 du 2 juillet 2018 relative à la santé | 1 | As enacted, from the Journal Officiel issue that printed it (2018-07-29); later amendments not yet applied |
+| `regime-electoral/` | Ordonnance n° 21-01 du 10 mars 2021 portant loi organique relative au régime électoral | 1 | As enacted, from the Journal Officiel issue that printed it (2021-03-10); later amendments not yet applied |
+| `investissement/` | Loi n° 22-18 du 24 juillet 2022 relative à l'investissement | 1 | As enacted, from the Journal Officiel issue that printed it (2022-07-28); later amendments not yet applied |
 
 **Language.** The text is in French, the language of the official French edition of the Journal Officiel (the Arabic text is the original). English is not available from the publisher.
 
@@ -35,4 +46,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-This is a partial build: the Constitution as promulgated in December 2020, and the Code pénal from the 2005 Ministry edition with the amending laws of 2006 to 2024. Amendments that change only some alinéas, phrases or words are applied only where the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.
+This is a partial build: the Constitution as promulgated in December 2020; the Code pénal from the 2005 Ministry edition with the amending laws of 2006 to 2024; the Code de procédure civile et administrative (2008, amended 2022); the Code de procédure pénale of 2025; and eleven statutes as enacted (their later amendments are not yet applied). Amendments that change only some alinéas, phrases or words are applied only where the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.

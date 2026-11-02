@@ -23,7 +23,7 @@ HIST = {
 def rows():
     out = ['| Folder | Act | Versions | History |', '| --- | --- | ---: | --- |']
     for a in c['acts']:
-        out.append(f"| `{a['slug']}/` | {a['title']} | {len(a['versions'])} | {HIST.get(a['slug'], a.get('history', ''))} |")
+        out.append(f"| `{a['slug']}/` | {a['title']} | {len(a['versions'])} | {HIST.get(a['slug']) or 'As enacted, from the Journal Officiel issue that printed it (' + a['versions'][0]['from'] + '); later amendments not yet applied'} |")
     return NL.join(out)
 
 
@@ -41,8 +41,9 @@ t = re.sub(r'Each commit is dated at noon, Africa/Algiers, on the day the change
            '(a law takes effect on publication), unless the law itself sets a later day. Earlier constitutions are not in this record.', t, count=1)
 t = t.replace('The one version here is credited to the promulgating decree, Décret présidentiel n° 20-442.',
               'The Constitution is credited to its promulgating decree (Décret présidentiel n° 20-442), and each later version of a code to the amending law printed in the Journal Officiel. A first version that is not the act as enacted is credited to its publisher as the oldest version available.')
-lim = ("This is a partial build: the Constitution as promulgated in December 2020, and the Code pénal from the 2005 Ministry edition "
-       "with the amending laws of 2006 to 2024. Amendments that change only some alinéas, phrases or words are applied only where "
+lim = ("This is a partial build: the Constitution as promulgated in December 2020; the Code pénal from the 2005 Ministry edition "
+       "with the amending laws of 2006 to 2024; the Code de procédure civile et administrative (2008, amended 2022); the Code de "
+       "procédure pénale of 2025; and eleven statutes as enacted (their later amendments are not yet applied). Amendments that change only some alinéas, phrases or words are applied only where "
        "the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil "
        "and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.")
 t = re.sub(r'(## Limits\n\n)[^\n]*', lambda m: m.group(1) + lim, t, count=1)
