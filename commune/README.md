@@ -1,6 +1,6 @@
 # Loi n° 11-10 du 22 juin 2011 relative à la commune
 
-Commune · 1 versions, from 2011-07-03 (latest in force: 2011-07-03) · <https://www.joradp.dz/FTP/jo-francais/2011/F2011037.pdf>
+Commune · 2 versions, from 2011-07-03 (latest in force: 2021-08-31) · <https://www.joradp.dz/FTP/jo-francais/2011/F2011037.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -67,8 +67,9 @@ Commune · 1 versions, from 2011-07-03 (latest in force: 2011-07-03) · <https:/
 | Art. 61 | [art-061.md](art-061.md) | 0 |  |
 | Art. 62 | [art-062.md](art-062.md) | 0 |  |
 | Art. 63 | [art-063.md](art-063.md) | 0 |  |
-| Art. 64 | [art-064.md](art-064.md) | 0 |  |
-| Art. 65 | [art-065.md](art-065.md) | 0 |  |
+| Art. 64 | [art-064.md](art-064.md) | 1 | 2021-08-31 |
+| Art. 64 bis | [art-064-bis.md](art-064-bis.md) | 1 | 2021-08-31 |
+| Art. 65 | [art-065.md](art-065.md) | 1 | 2021-08-31 |
 | Art. 66 | [art-066.md](art-066.md) | 0 |  |
 | Art. 67 | [art-067.md](art-067.md) | 0 |  |
 | Art. 68 | [art-068.md](art-068.md) | 0 |  |
