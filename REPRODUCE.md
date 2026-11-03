@@ -32,6 +32,9 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | JORADP, Journal Officiel n° 37 of 2026, French edition (Loi n° 26-10 du 12 mai 2026 relative à la criminalisation de la colonisation française de l'Algérie) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026037.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 55 of 2026, French edition (Ordonnance n° 26-01 du 27 juillet 2026 portant code de justice militaire) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026055.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 12 of 2025, French edition (Loi n° 25-01 du 20 février 2025 relative à la protection et à la promotion des personnes ayant des besoins spécifiques) | <https://www.joradp.dz/FTP/jo-francais/2025/F2025012.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 47 of 2025, French edition (Loi n° 25-05 du 19 juillet 2025 relative à la mobilisation générale) | <https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 47 of 2025, French edition (Loi n° 25-06 du 19 juillet 2025 relative aux wakfs) | <https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 70 of 2025, French edition (Loi n° 25-15 du 27 octobre 2025 portant création de médailles militaires au sein de l'Armée Nationale Populaire) | <https://www.joradp.dz/FTP/jo-francais/2025/F2025070.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -62,20 +65,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `criminalisation-colonisation-francaise-algerie` | Loi n° 26-10 du 12 mai 2026 relative à la criminalisation de la colonisation française de l'Algérie | 1 | 2026-05-20 to 2026-05-20 |
 | `code-justice-militaire` | Ordonnance n° 26-01 du 27 juillet 2026 portant code de justice militaire | 1 | 2026-07-27 to 2026-07-27 |
 | `protection-promotion-personnes-ayant-besoins-specifiques` | Loi n° 25-01 du 20 février 2025 relative à la protection et à la promotion des personnes ayant des besoins spécifiques | 1 | 2025-02-23 to 2025-02-23 |
+| `mobilisation-generale` | Loi n° 25-05 du 19 juillet 2025 relative à la mobilisation générale | 1 | 2025-07-22 to 2025-07-22 |
+| `wakfs` | Loi n° 25-06 du 19 juillet 2025 relative aux wakfs | 1 | 2025-07-22 to 2025-07-22 |
+| `creation-medailles-militaires-sein-armee-nationale` | Loi n° 25-15 du 27 octobre 2025 portant création de médailles militaires au sein de l'Armée Nationale Populaire | 1 | 2025-10-27 to 2025-10-27 |
 
-The build made 37 commits:
+The build made 40 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 23 | first version of an act |
+| 26 | first version of an act |
 | 14 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futur`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 38 laws in the record.
-- 73 tags.
+- 41 laws in the record.
+- 79 tags.
 
 ## Dates
 
@@ -87,7 +93,7 @@ When a law gives no date of its own, the default rule applies: A law takes effec
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b62ad07c2cce07f59a5247fc9959fc35fc832baf9eaf1f6d42801033f0b4767e` (3824624 bytes).
+- Corpus: sha256 `9815755d0681c6aabfd3ccdfbbff4c7b48fbef1a1a4fa84fb714180405869c38` (3936940 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

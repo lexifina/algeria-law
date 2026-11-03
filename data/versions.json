@@ -406,6 +406,48 @@
      "sha256": "c1546d7070a06d41211ad584112a8c6b66571d137f9ce876f8e5adcd015a38fd"
     }
    ]
+  },
+  {
+   "slug": "mobilisation-generale",
+   "short": "Mobilisation générale",
+   "title": "Loi n° 25-05 du 19 juillet 2025 relative à la mobilisation générale",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 69,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf",
+     "sha256": "fbf34a47fe5f86f39b5c7ae1d9c817c02ceb2ac683aa1ea3765d2446f7c78f79"
+    }
+   ]
+  },
+  {
+   "slug": "wakfs",
+   "short": "Wakfs",
+   "title": "Loi n° 25-06 du 19 juillet 2025 relative aux wakfs",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 122,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025047.pdf",
+     "sha256": "fbf34a47fe5f86f39b5c7ae1d9c817c02ceb2ac683aa1ea3765d2446f7c78f79"
+    }
+   ]
+  },
+  {
+   "slug": "creation-medailles-militaires-sein-armee-nationale",
+   "short": "Création de médailles militaires",
+   "title": "Loi n° 25-15 du 27 octobre 2025 portant création de médailles militaires au sein de l'Armée Nationale Populaire",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025070.pdf",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 21,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025070.pdf",
+     "sha256": "19e90fb696ca1a8a601d1777f74b6d6e33950517851774b8ceabf17b2f6c1e3d"
+    }
+   ]
   }
  ]
 }
