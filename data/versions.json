@@ -392,6 +392,20 @@
      "sha256": "f3ca144862ec98d11828b57acf997e6f1446f0fd52df83895fc9b880386b2448"
     }
    ]
+  },
+  {
+   "slug": "protection-promotion-personnes-ayant-besoins-specifiques",
+   "short": "Protection et à la promotion",
+   "title": "Loi n° 25-01 du 20 février 2025 relative à la protection et à la promotion des personnes ayant des besoins spécifiques",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025012.pdf",
+   "versions": [
+    {
+     "from": "2025-02-23",
+     "units": 56,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2025/F2025012.pdf",
+     "sha256": "c1546d7070a06d41211ad584112a8c6b66571d137f9ce876f8e5adcd015a38fd"
+    }
+   ]
   }
  ]
 }
