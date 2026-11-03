@@ -2022,6 +2022,250 @@
      "sha256": "1d90126bf3ce3a820717b97bfce8913c7fab390724fb3f764afd029d2b6101a2"
     }
    ]
+  },
+  {
+   "slug": "developpement-durable-tourisme",
+   "short": "Développement durable du tourisme",
+   "title": "Loi n° 03-01 du 17 février 2003 relative au développement durable du tourisme",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 29,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+     "sha256": "2ff54375c92af80141aabfbfd4033acadba31d15d1365618ff198387afd49216"
+    }
+   ]
+  },
+  {
+   "slug": "regles-generales-utilisation-exploitation-touristiques-plages",
+   "short": "Règles générales d'utilisation",
+   "title": "Loi n° 03-02 du 17 février 2003 fixant les règles générales d'utilisation et d'exploitation touristiques des plages",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 55,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+     "sha256": "2ff54375c92af80141aabfbfd4033acadba31d15d1365618ff198387afd49216"
+    }
+   ]
+  },
+  {
+   "slug": "zones-expansion-sites-touristiques",
+   "short": "Zones d'expansion et sites",
+   "title": "Loi n° 03-03 du 17 février 2003 relative aux zones d'expansion et sites touristiques",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 53,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf",
+     "sha256": "2ff54375c92af80141aabfbfd4033acadba31d15d1365618ff198387afd49216"
+    },
+    {
+     "from": "2008-07-02",
+     "units": 61,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2008/F2008036.pdf",
+     "sha256": "6de6b479e5d05b1c48bc7afca1dde2482ab0c761d9589ed889c0bdb70ab5bfe3"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-repression-usage-trafic-illicites-stupefiants",
+   "short": "Prévention et à la répression",
+   "title": "Loi n° 04-18 du 25 décembre 2004 relative à la prévention et à la répression de l'usage et du trafic illicites de stupéfiants et de substances psychotropes",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf",
+   "versions": [
+    {
+     "from": "2004-12-26",
+     "units": 39,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf",
+     "sha256": "5f06fb908e835862e0bc665cef5981c5aba67cd17717952f76bc6f7243299e19"
+    }
+   ]
+  },
+  {
+   "slug": "placement-travailleurs-controle-emploi",
+   "short": "Placement des travailleurs et",
+   "title": "Loi n° 04-19 du 25 décembre 2004 relative au placement des travailleurs et au contrôle de l'emploi",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf",
+   "versions": [
+    {
+     "from": "2004-12-26",
+     "units": 29,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf",
+     "sha256": "5f06fb908e835862e0bc665cef5981c5aba67cd17717952f76bc6f7243299e19"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-risques-majeurs-gestion-catastrophes-dans",
+   "short": "Prévention des risques majeurs et à",
+   "title": "Loi n°04-20 du 25 décembre 2004 relative à la prévention des risques majeurs et à la gestion des catastrophes dans le cadre du développement durable",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004084.pdf",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 75,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2004/F2004084.pdf",
+     "sha256": "6b5ff4e81fea52a9bf50d9200c25d40a5d9c94a97011e39cf31be19adf56b1c5"
+    }
+   ]
+  },
+  {
+   "slug": "regles-generales-applicables-operations-importation-exportation",
+   "short": "Règles générales applicables",
+   "title": "Ordonnance n° 03-04 du 19 juillet 2003 relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+   "versions": [
+    {
+     "from": "2003-07-20",
+     "units": 23,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+     "sha256": "daac79dd8d29a2b7a9becf1a08f40045bb5283285a4ea98c5aa01ef71f1f193f"
+    }
+   ]
+  },
+  {
+   "slug": "repression-infractions-dispositions-convention-interdiction-mise",
+   "short": "Répression des infractions",
+   "title": "Loi n° 03-09 du 19 juillet 2003 portant répression des infractions aux dispositions de la convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+   "versions": [
+    {
+     "from": "2003-07-20",
+     "units": 28,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+     "sha256": "daac79dd8d29a2b7a9becf1a08f40045bb5283285a4ea98c5aa01ef71f1f193f"
+    }
+   ]
+  },
+  {
+   "slug": "protection-environnement-dans-cadre-developpement-durable",
+   "short": "Protection de l'environnement dans",
+   "title": "Loi n° 03-10 du 19 juillet 2003 relative à la protection de l'environnement dans le cadre du développement durable",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+   "versions": [
+    {
+     "from": "2003-07-20",
+     "units": 114,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf",
+     "sha256": "daac79dd8d29a2b7a9becf1a08f40045bb5283285a4ea98c5aa01ef71f1f193f"
+    }
+   ]
+  },
+  {
+   "slug": "droits-auteur-droits-voisins",
+   "short": "Droits d'auteur et aux droits voisins",
+   "title": "Ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+   "versions": [
+    {
+     "from": "2003-07-23",
+     "units": 164,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+     "sha256": "9a26449016e18c1be89992ce3b2db0efbc8df20e308624c88add4d5da202e639"
+    }
+   ]
+  },
+  {
+   "slug": "brevets-invention",
+   "short": "Brevets d'invention",
+   "title": "Ordonnance n° 03-07 du 19 juillet 2003 relative aux brevets d'invention",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+   "versions": [
+    {
+     "from": "2003-07-23",
+     "units": 65,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+     "sha256": "9a26449016e18c1be89992ce3b2db0efbc8df20e308624c88add4d5da202e639"
+    }
+   ]
+  },
+  {
+   "slug": "protection-schemas-configuration-circuits-integres",
+   "short": "Protection des schémas",
+   "title": "Ordonnance n° 03-08 du 19 juillet 2003 relative à la protection des schémas de configuration des circuits intégrés",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+   "versions": [
+    {
+     "from": "2003-07-23",
+     "units": 42,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf",
+     "sha256": "9a26449016e18c1be89992ce3b2db0efbc8df20e308624c88add4d5da202e639"
+    }
+   ]
+  },
+  {
+   "slug": "monnaie-credit",
+   "short": "Monnaie et au crédit",
+   "title": "Ordonnance n° 03-11 du 26 août 2003 relative à la monnaie et au crédit",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 143,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf",
+     "sha256": "834491a6beb020660174ea62da7d8536656c1383756762683561ec80848ead0c"
+    }
+   ]
+  },
+  {
+   "slug": "obligation-assurance-catastrophes-naturelles-indemnisation-victimes",
+   "short": "Obligation d'assurance",
+   "title": "Ordonnance n° 03-12 du 26 août 2003 relative à l'obligation d'assurance des catastrophes naturelles et à l'indemnisation des victimes",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 17,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf",
+     "sha256": "834491a6beb020660174ea62da7d8536656c1383756762683561ec80848ead0c"
+    }
+   ]
+  },
+  {
+   "slug": "electricite-distribution-gaz-par-canalisations",
+   "short": "Électricité et à la distribution",
+   "title": "Loi n° 02-01 du 5 février 2002 relative à l'électricité et à la distribution du gaz par canalisations",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002008.pdf",
+   "versions": [
+    {
+     "from": "1991-04-27",
+     "units": 181,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002008.pdf",
+     "sha256": "61b57e1d49ab3ec9041799c331e4429878123ad8eeb64b0394df2ddc2933e572"
+    }
+   ]
+  },
+  {
+   "slug": "conditions-creation-villes-nouvelles-leur-amenagement",
+   "short": "Conditions de création des villes",
+   "title": "Loi n° 02-08 du 8 mai 2002 relative aux conditions de création des villes nouvelles et de leur aménagement",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 19,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf",
+     "sha256": "dc78442afa60b1685463baefea50b66880fa811c1aefe3dd8d811989ca2cbcfb"
+    }
+   ]
+  },
+  {
+   "slug": "protection-promotion-personnes-handicapees",
+   "short": "Protection et à la promotion",
+   "title": "Loi n° 02-09 du 8 mai 2002 relative à la protection et à la promotion des personnes handicapées",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf",
+   "versions": [
+    {
+     "from": "2002-05-14",
+     "units": 39,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf",
+     "sha256": "dc78442afa60b1685463baefea50b66880fa811c1aefe3dd8d811989ca2cbcfb"
+    }
+   ]
   }
  ]
 }

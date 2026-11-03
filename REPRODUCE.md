@@ -150,6 +150,24 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | JORADP, Journal Officiel n° 52 of 2004, French edition (Loi n° 04-10 du 14 août 2004 relative à l'éducation physique et aux sports) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004052.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 57 of 2004, French edition (Loi organique n° 04-11 du 6 septembre 2004 portant statut de la magistrature) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004057.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 57 of 2004, French edition (Loi organique n° 04-12 du 6 septembre 2004 fixant la composition, le fonctionnement et les attributions du conseil supérieur de la magistrature) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004057.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 11 of 2003, French edition (Loi n° 03-01 du 17 février 2003 relative au développement durable du tourisme) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 11 of 2003, French edition (Loi n° 03-02 du 17 février 2003 fixant les règles générales d'utilisation et d'exploitation touristiques des plages) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 11 of 2003, French edition (Loi n° 03-03 du 17 février 2003 relative aux zones d'expansion et sites touristiques) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003011.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 36 of 2008, French edition (Loi/Ordonnance n° 08-12) | <https://www.joradp.dz/FTP/jo-francais/2008/F2008036.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 83 of 2004, French edition (Loi n° 04-18 du 25 décembre 2004 relative à la prévention et à la répression de l'usage et du trafic illicites de stupéfiants et de substances psychotropes) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 83 of 2004, French edition (Loi n° 04-19 du 25 décembre 2004 relative au placement des travailleurs et au contrôle de l'emploi) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004083.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 84 of 2004, French edition (Loi n°04-20 du 25 décembre 2004 relative à la prévention des risques majeurs et à la gestion des catastrophes dans le cadre du développement durable) | <https://www.joradp.dz/FTP/jo-francais/2004/F2004084.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 43 of 2003, French edition (Ordonnance n° 03-04 du 19 juillet 2003 relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 43 of 2003, French edition (Loi n° 03-09 du 19 juillet 2003 portant répression des infractions aux dispositions de la convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 43 of 2003, French edition (Loi n° 03-10 du 19 juillet 2003 relative à la protection de l'environnement dans le cadre du développement durable) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003043.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 44 of 2003, French edition (Ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 44 of 2003, French edition (Ordonnance n° 03-07 du 19 juillet 2003 relative aux brevets d'invention) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 44 of 2003, French edition (Ordonnance n° 03-08 du 19 juillet 2003 relative à la protection des schémas de configuration des circuits intégrés) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003044.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 52 of 2003, French edition (Ordonnance n° 03-11 du 26 août 2003 relative à la monnaie et au crédit) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 52 of 2003, French edition (Ordonnance n° 03-12 du 26 août 2003 relative à l'obligation d'assurance des catastrophes naturelles et à l'indemnisation des victimes) | <https://www.joradp.dz/FTP/jo-francais/2003/F2003052.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 8 of 2002, French edition (Loi n° 02-01 du 5 février 2002 relative à l'électricité et à la distribution du gaz par canalisations) | <https://www.joradp.dz/FTP/jo-francais/2002/F2002008.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 34 of 2002, French edition (Loi n° 02-08 du 8 mai 2002 relative aux conditions de création des villes nouvelles et de leur aménagement) | <https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 34 of 2002, French edition (Loi n° 02-09 du 8 mai 2002 relative à la protection et à la promotion des personnes handicapées) | <https://www.joradp.dz/FTP/jo-francais/2002/F2002034.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -295,20 +313,37 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `education-physique-sports` | Loi n° 04-10 du 14 août 2004 relative à l'éducation physique et aux sports | 1 | 2004-08-18 to 2004-08-18 |
 | `statut-magistrature-2004` | Loi organique n° 04-11 du 6 septembre 2004 portant statut de la magistrature | 1 | 2004-09-08 to 2004-09-08 |
 | `composition-fonctionnement-attributions-conseil-superieur-magistrature` | Loi organique n° 04-12 du 6 septembre 2004 fixant la composition, le fonctionnement et les attributions du conseil supérieur de la magistrature | 1 | 2004-09-08 to 2004-09-08 |
+| `developpement-durable-tourisme` | Loi n° 03-01 du 17 février 2003 relative au développement durable du tourisme | 1 | 2003-02-19 to 2003-02-19 |
+| `regles-generales-utilisation-exploitation-touristiques-plages` | Loi n° 03-02 du 17 février 2003 fixant les règles générales d'utilisation et d'exploitation touristiques des plages | 1 | 2003-02-19 to 2003-02-19 |
+| `zones-expansion-sites-touristiques` | Loi n° 03-03 du 17 février 2003 relative aux zones d'expansion et sites touristiques | 2 | 2003-02-19 to 2008-07-02 |
+| `prevention-repression-usage-trafic-illicites-stupefiants` | Loi n° 04-18 du 25 décembre 2004 relative à la prévention et à la répression de l'usage et du trafic illicites de stupéfiants et de substances psychotropes | 1 | 2004-12-26 to 2004-12-26 |
+| `placement-travailleurs-controle-emploi` | Loi n° 04-19 du 25 décembre 2004 relative au placement des travailleurs et au contrôle de l'emploi | 1 | 2004-12-26 to 2004-12-26 |
+| `prevention-risques-majeurs-gestion-catastrophes-dans` | Loi n°04-20 du 25 décembre 2004 relative à la prévention des risques majeurs et à la gestion des catastrophes dans le cadre du développement durable | 1 | 2004-12-29 to 2004-12-29 |
+| `regles-generales-applicables-operations-importation-exportation` | Ordonnance n° 03-04 du 19 juillet 2003 relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises | 1 | 2003-07-20 to 2003-07-20 |
+| `repression-infractions-dispositions-convention-interdiction-mise` | Loi n° 03-09 du 19 juillet 2003 portant répression des infractions aux dispositions de la convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction | 1 | 2003-07-20 to 2003-07-20 |
+| `protection-environnement-dans-cadre-developpement-durable` | Loi n° 03-10 du 19 juillet 2003 relative à la protection de l'environnement dans le cadre du développement durable | 1 | 2003-07-20 to 2003-07-20 |
+| `droits-auteur-droits-voisins` | Ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins | 1 | 2003-07-23 to 2003-07-23 |
+| `brevets-invention` | Ordonnance n° 03-07 du 19 juillet 2003 relative aux brevets d'invention | 1 | 2003-07-23 to 2003-07-23 |
+| `protection-schemas-configuration-circuits-integres` | Ordonnance n° 03-08 du 19 juillet 2003 relative à la protection des schémas de configuration des circuits intégrés | 1 | 2003-07-23 to 2003-07-23 |
+| `monnaie-credit` | Ordonnance n° 03-11 du 26 août 2003 relative à la monnaie et au crédit | 1 | 2003-08-27 to 2003-08-27 |
+| `obligation-assurance-catastrophes-naturelles-indemnisation-victimes` | Ordonnance n° 03-12 du 26 août 2003 relative à l'obligation d'assurance des catastrophes naturelles et à l'indemnisation des victimes | 1 | 2003-08-27 to 2003-08-27 |
+| `electricite-distribution-gaz-par-canalisations` | Loi n° 02-01 du 5 février 2002 relative à l'électricité et à la distribution du gaz par canalisations | 1 | 1991-04-27 to 1991-04-27 |
+| `conditions-creation-villes-nouvelles-leur-amenagement` | Loi n° 02-08 du 8 mai 2002 relative aux conditions de création des villes nouvelles et de leur aménagement | 1 | 2002-05-14 to 2002-05-14 |
+| `protection-promotion-personnes-handicapees` | Loi n° 02-09 du 8 mai 2002 relative à la protection et à la promotion des personnes handicapées | 1 | 2002-05-14 to 2002-05-14 |
 
-The build made 154 commits:
+The build made 172 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 138 | first version of an act |
-| 16 | one law on its in-force day |
+| 155 | first version of an act |
+| 17 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futur`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 173 laws in the record.
-- 307 tags.
+- 195 laws in the record.
+- 343 tags.
 
 ## Dates
 
@@ -320,7 +355,7 @@ When a law gives no date of its own, the default rule applies: A law takes effec
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d65caeaee2906135288829dfbc3b5c4a9cb7c2c703ad0f2451cee0bbc1a8479d` (8783439 bytes).
+- Corpus: sha256 `df033ab4f3ea6938942b99d424562b234bf41747dc959a89d094870fd0ebe41e` (9508953 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
