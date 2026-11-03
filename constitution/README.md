@@ -1,6 +1,6 @@
 # Constitution de la République algérienne démocratique et populaire (révision de 2020)
 
-Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020082.pdf>
+Const. · 2 versions, from 2020-12-30 (latest in force: 2026-03-26) · <https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020082.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -90,13 +90,13 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 84 | [art-084.md](art-084.md) | 0 |  |
 | Art. 85 | [art-085.md](art-085.md) | 0 |  |
 | Art. 86 | [art-086.md](art-086.md) | 0 |  |
-| Art. 87 | [art-087.md](art-087.md) | 0 |  |
+| Art. 87 | [art-087.md](art-087.md) | 1 | 2026-03-26 |
 | Art. 88 | [art-088.md](art-088.md) | 0 |  |
-| Art. 89 | [art-089.md](art-089.md) | 0 |  |
+| Art. 89 | [art-089.md](art-089.md) | 1 | 2026-03-26 |
 | Art. 90 | [art-090.md](art-090.md) | 0 |  |
-| Art. 91 | [art-091.md](art-091.md) | 0 |  |
+| Art. 91 | [art-091.md](art-091.md) | 1 | 2026-03-26 |
 | Art. 92 | [art-092.md](art-092.md) | 0 |  |
-| Art. 93 | [art-093.md](art-093.md) | 0 |  |
+| Art. 93 | [art-093.md](art-093.md) | 1 | 2026-03-26 |
 | Art. 94 | [art-094.md](art-094.md) | 0 |  |
 | Art. 95 | [art-095.md](art-095.md) | 0 |  |
 | Art. 96 | [art-096.md](art-096.md) | 0 |  |
@@ -124,7 +124,7 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 118 | [art-118.md](art-118.md) | 0 |  |
 | Art. 119 | [art-119.md](art-119.md) | 0 |  |
 | Art. 120 | [art-120.md](art-120.md) | 0 |  |
-| Art. 121 | [art-121.md](art-121.md) | 0 |  |
+| Art. 121 | [art-121.md](art-121.md) | 1 | 2026-03-26 |
 | Art. 122 | [art-122.md](art-122.md) | 0 |  |
 | Art. 123 | [art-123.md](art-123.md) | 0 |  |
 | Art. 124 | [art-124.md](art-124.md) | 0 |  |
@@ -137,18 +137,18 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 131 | [art-131.md](art-131.md) | 0 |  |
 | Art. 132 | [art-132.md](art-132.md) | 0 |  |
 | Art. 133 | [art-133.md](art-133.md) | 0 |  |
-| Art. 134 | [art-134.md](art-134.md) | 0 |  |
+| Art. 134 | [art-134.md](art-134.md) | 1 | 2026-03-26 |
 | Art. 135 | [art-135.md](art-135.md) | 0 |  |
 | Art. 136 | [art-136.md](art-136.md) | 0 |  |
 | Art. 137 | [art-137.md](art-137.md) | 0 |  |
-| Art. 138 | [art-138.md](art-138.md) | 0 |  |
+| Art. 138 | [art-138.md](art-138.md) | 1 | 2026-03-26 |
 | Art. 139 | [art-139.md](art-139.md) | 0 |  |
 | Art. 140 | [art-140.md](art-140.md) | 0 |  |
 | Art. 141 | [art-141.md](art-141.md) | 0 |  |
 | Art. 142 | [art-142.md](art-142.md) | 0 |  |
 | Art. 143 | [art-143.md](art-143.md) | 0 |  |
 | Art. 144 | [art-144.md](art-144.md) | 0 |  |
-| Art. 145 | [art-145.md](art-145.md) | 0 |  |
+| Art. 145 | [art-145.md](art-145.md) | 1 | 2026-03-26 |
 | Art. 146 | [art-146.md](art-146.md) | 0 |  |
 | Art. 147 | [art-147.md](art-147.md) | 0 |  |
 | Art. 148 | [art-148.md](art-148.md) | 0 |  |
@@ -183,8 +183,8 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 177 | [art-177.md](art-177.md) | 0 |  |
 | Art. 178 | [art-178.md](art-178.md) | 0 |  |
 | Art. 179 | [art-179.md](art-179.md) | 0 |  |
-| Art. 180 | [art-180.md](art-180.md) | 0 |  |
-| Art. 181 | [art-181.md](art-181.md) | 0 |  |
+| Art. 180 | [art-180.md](art-180.md) | 1 | 2026-03-26 |
+| Art. 181 | [art-181.md](art-181.md) | 1 | 2026-03-26 |
 | Art. 182 | [art-182.md](art-182.md) | 0 |  |
 | Art. 183 | [art-183.md](art-183.md) | 0 |  |
 | Art. 184 | [art-184.md](art-184.md) | 0 |  |
@@ -205,7 +205,7 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 199 | [art-199.md](art-199.md) | 0 |  |
 | Art. 200 | [art-200.md](art-200.md) | 0 |  |
 | Art. 201 | [art-201.md](art-201.md) | 0 |  |
-| Art. 202 | [art-202.md](art-202.md) | 0 |  |
+| Art. 202 | [art-202.md](art-202.md) | 1 | 2026-03-26 |
 | Art. 203 | [art-203.md](art-203.md) | 0 |  |
 | Art. 204 | [art-204.md](art-204.md) | 0 |  |
 | Art. 205 | [art-205.md](art-205.md) | 0 |  |
@@ -227,8 +227,9 @@ Const. · 1 versions, from 2020-12-30 (latest in force: 2020-12-30) · <https://
 | Art. 221 | [art-221.md](art-221.md) | 0 |  |
 | Art. 222 | [art-222.md](art-222.md) | 0 |  |
 | Art. 223 | [art-223.md](art-223.md) | 0 |  |
-| Art. 224 | [art-224.md](art-224.md) | 0 |  |
+| Art. 224 | [art-224.md](art-224.md) | 1 | 2026-03-26 |
 | Art. 225 | [art-225.md](art-225.md) | 0 |  |
+| Art. 226 | [art-226.md](art-226.md) | 1 | 2026-03-26 |
 | Préambule | [preambule.md](preambule.md) | 0 |  |
 | Serment (art. 90) | [serment-art-090.md](serment-art-090.md) | 0 |  |
 | Serment (art. 186) | [serment-art-186.md](serment-art-186.md) | 0 |  |

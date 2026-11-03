@@ -12,6 +12,12 @@
      "units": 228,
      "source_url": "https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020082.pdf",
      "sha256": "8c4254ec4bbe37da5e4b613399e259c2c9d55453f3f22a8f3675ee40c79a3a3f"
+    },
+    {
+     "from": "2026-03-26",
+     "units": 229,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026022.pdf",
+     "sha256": "389f1addff52007af1c7f76f9e33626727dfbe8fa98b32b2a13afe1dae154012"
     }
    ]
   },
@@ -86,6 +92,12 @@
      "units": 704,
      "source_url": "https://www.joradp.dz/FTP/jo-francais/2024/F2024030.pdf",
      "sha256": "aa3a8318ab9b2f63407a83882d24759712ff9c4bf0ba63e83c75e74afcedcaf0"
+    },
+    {
+     "from": "2026-10-13",
+     "units": 708,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026072.pdf",
+     "sha256": "a0707a63b7ef5459870c497fda96fa29fec714b7a8adeea5cff31a65ff7f3b89"
     }
    ]
   },
@@ -260,6 +272,12 @@
      "units": 321,
      "source_url": "https://www.joradp.dz/FTP/jo-francais/2021/F2021017.pdf",
      "sha256": "7e964efe18b114406cf98a1e5d61150b60857f5c7245ff5cff645b4e6e091430"
+    },
+    {
+     "from": "2026-04-04",
+     "units": 318,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026024.pdf",
+     "sha256": "deac6e85e0eb3723e7bb4f7c41200dd1c1a2106b589c9b278d7ab2153ec50808"
     }
    ]
   },
@@ -274,6 +292,104 @@
      "units": 41,
      "source_url": "https://www.joradp.dz/FTP/jo-francais/2022/F2022050.pdf",
      "sha256": "ee49ba034bb36ad5f82f7d4ca1c93eca060d5bd540eeb5578befef9b39f6c0c0"
+    }
+   ]
+  },
+  {
+   "slug": "regles-generales-services-confiance-pour-transactions",
+   "short": "les règles générales relatives aux servi",
+   "title": "Loi n° 26-02 du 17 février 2026 fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026014.pdf",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 116,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026014.pdf",
+     "sha256": "f6763b34aee2a052d6dfa5d400a6041313c860438d2eadbc6cdba20872ef1e4c"
+    }
+   ]
+  },
+  {
+   "slug": "statut-magistrature",
+   "short": "statut de la magistrature",
+   "title": "Loi organique n° 26-03 du 23 mars 2026 portant statut de la magistrature",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026023.pdf",
+   "versions": [
+    {
+     "from": "2026-03-29",
+     "units": 110,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026023.pdf",
+     "sha256": "5210e1268f5c83aa0bab1d6e65e17d2860e77a56c6c5dcc2589560c256196b69"
+    }
+   ]
+  },
+  {
+   "slug": "circonscriptions-electorales-nombre-sieges-pourvoir-parlement",
+   "short": "les circonscriptions électorales et le n",
+   "title": "Loi n° 26-07 du 8 avril 2026 fixant les circonscriptions électorales et le nombre de sièges à pourvoir au Parlement",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 10,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026026.pdf",
+     "sha256": "7f85527d2bb9b1ad7310466ea047dd54ba6e72ed32a3a85b5d3b2b6f418a3837"
+    }
+   ]
+  },
+  {
+   "slug": "partis-politiques-2026",
+   "short": "partis politiques",
+   "title": "Loi organique n° 26-08 du 23 avril 2026 relative aux partis politiques",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026030.pdf",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 97,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026030.pdf",
+     "sha256": "0204bef8c2b4b19e1e81e15534f5c0f80a023065af5e69534a205188a41416a1"
+    }
+   ]
+  },
+  {
+   "slug": "code-route",
+   "short": "code de la route",
+   "title": "Loi n° 26-09 du 12 mai 2026 portant code de la route",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026036.pdf",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 190,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026036.pdf",
+     "sha256": "81bdbd4cb4df92c3fa132514b4228b32bbfd076b0b2e694f349ce262e4ee7b7a"
+    }
+   ]
+  },
+  {
+   "slug": "criminalisation-colonisation-francaise-algerie",
+   "short": "la criminalisation de la colonisation fr",
+   "title": "Loi n° 26-10 du 12 mai 2026 relative à la criminalisation de la colonisation française de l'Algérie",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026037.pdf",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 21,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026037.pdf",
+     "sha256": "95952809f7a62aa05575ad8685058c95a37b6bd827a6d31da2fb9677aa74f8a3"
+    }
+   ]
+  },
+  {
+   "slug": "code-justice-militaire",
+   "short": "code de justice militaire",
+   "title": "Ordonnance n° 26-01 du 27 juillet 2026 portant code de justice militaire",
+   "url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026055.pdf",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 360,
+     "source_url": "https://www.joradp.dz/FTP/jo-francais/2026/F2026055.pdf",
+     "sha256": "f3ca144862ec98d11828b57acf997e6f1446f0fd52df83895fc9b880386b2448"
     }
    ]
   }

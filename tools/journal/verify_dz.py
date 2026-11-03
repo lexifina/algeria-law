@@ -33,7 +33,9 @@ for act in c['acts']:
                     continue
                 fp = flat(p)
                 checked += 1
-                if fp not in gaz and fp not in old:
+                spliced = any(fp[:m.start()].strip() in gaz and fp[m.start():].strip() in old
+                              for m in re.finditer(' ', fp) if m.start() > 20)
+                if fp not in gaz and fp not in old and not spliced:
                     bad += 1
                     print(act['slug'], v['from'], k, '|', p[:160])
         print(act['slug'], v['from'], 'paragraphs checked', checked)

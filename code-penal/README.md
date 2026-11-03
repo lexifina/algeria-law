@@ -1,6 +1,6 @@
 # Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005
 
-CP · 11 versions, from 2005-08-23 (latest in force: 2024-04-30) · <https://sherloc.unodc.org/cld/uploads/res/document/dza/code-pnal-french-arabic_html/code_penal_avec_mod_06.pdf>
+CP · 12 versions, from 2005-08-23 (latest in force: 2026-10-13) · <https://sherloc.unodc.org/cld/uploads/res/document/dza/code-pnal-french-arabic_html/code_penal_avec_mod_06.pdf>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -435,7 +435,7 @@ CP · 11 versions, from 2005-08-23 (latest in force: 2024-04-30) · <https://she
 | Art. 289 | [art-289.md](art-289.md) | 1 | 2024-04-30 |
 | Art. 290 | [art-290.md](art-290.md) | 0 |  |
 | Art. 290 bis | [art-290-bis.md](art-290-bis.md) | 1 | 2020-04-29 |
-| Art. 291 | [art-291.md](art-291.md) | 1 | 2014-02-16 |
+| Art. 291 | [art-291.md](art-291.md) | 2 | 2026-10-13 |
 | Art. 292 | [art-292.md](art-292.md) | 0 |  |
 | Art. 293 | [art-293.md](art-293.md) | 1 | 2006-12-24 |
 | Art. 293 bis | [art-293-bis.md](art-293-bis.md) | 2 | 2014-02-16 |
@@ -628,11 +628,15 @@ CP · 11 versions, from 2005-08-23 (latest in force: 2024-04-30) · <https://she
 | Art. 394 sexies | [art-394-sexies.md](art-394-sexies.md) | 0 |  |
 | Art. 394 ter | [art-394-ter.md](art-394-ter.md) | 1 | 2024-04-30 |
 | Art. 395 | [art-395.md](art-395.md) | 2 | 2024-04-30 |
-| Art. 396 | [art-396.md](art-396.md) | 1 | 2024-04-30 |
+| Art. 395 bis | [art-395-bis.md](art-395-bis.md) | 1 | 2026-10-13 |
+| Art. 396 | [art-396.md](art-396.md) | 2 | 2026-10-13 |
 | Art. 396 bis | [art-396-bis.md](art-396-bis.md) | 2 | 2024-04-30 |
+| Art. 396 bis 1 | [art-396-bis-1.md](art-396-bis-1.md) | 1 | 2026-10-13 |
+| Art. 396 bis 2 | [art-396-bis-2.md](art-396-bis-2.md) | 1 | 2026-10-13 |
+| Art. 396 bis 3 | [art-396-bis-3.md](art-396-bis-3.md) | 1 | 2026-10-13 |
 | Art. 397 | [art-397.md](art-397.md) | 1 | 2024-04-30 |
 | Art. 398 | [art-398.md](art-398.md) | 1 | 2024-04-30 |
-| Art. 399 | [art-399.md](art-399.md) | 0 |  |
+| Art. 399 | [art-399.md](art-399.md) | 1 | 2026-10-13 |
 | Art. 400 | [art-400.md](art-400.md) | 0 |  |
 | Art. 401 | [art-401.md](art-401.md) | 0 |  |
 | Art. 402 | [art-402.md](art-402.md) | 1 | 2006-12-24 |

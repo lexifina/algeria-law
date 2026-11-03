@@ -1,6 +1,6 @@
 # How this repository was made (Algeria)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -22,7 +22,15 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | JORADP, Journal Officiel n° 39 of 2015, French edition (Loi n° 15-12 du 15 juillet 2015 relative à la protection de l'enfant) | <https://www.joradp.dz/FTP/jo-francais/2015/F2015039.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 46 of 2018, French edition (Loi n° 18-11 du 2 juillet 2018 relative à la santé) | <https://www.joradp.dz/FTP/jo-francais/2018/F2018046.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 17 of 2021, French edition (Ordonnance n° 21-01 du 10 mars 2021 portant loi organique relative au régime électoral) | <https://www.joradp.dz/FTP/jo-francais/2021/F2021017.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 24 of 2026, French edition (Loi/Ordonnance n° 26-05) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026024.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 | JORADP, Journal Officiel n° 50 of 2022, French edition (Loi n° 22-18 du 24 juillet 2022 relative à l'investissement) | <https://www.joradp.dz/FTP/jo-francais/2022/F2022050.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 14 of 2026, French edition (Loi n° 26-02 du 17 février 2026 fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026014.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 23 of 2026, French edition (Loi organique n° 26-03 du 23 mars 2026 portant statut de la magistrature) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026023.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 26 of 2026, French edition (Loi n° 26-07 du 8 avril 2026 fixant les circonscriptions électorales et le nombre de sièges à pourvoir au Parlement) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026026.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 30 of 2026, French edition (Loi organique n° 26-08 du 23 avril 2026 relative aux partis politiques) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026030.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 36 of 2026, French edition (Loi n° 26-09 du 12 mai 2026 portant code de la route) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026036.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 37 of 2026, French edition (Loi n° 26-10 du 12 mai 2026 relative à la criminalisation de la colonisation française de l'Algérie) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026037.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
+| JORADP, Journal Officiel n° 55 of 2026, French edition (Ordonnance n° 26-01 du 27 juillet 2026 portant code de justice militaire) | <https://www.joradp.dz/FTP/jo-francais/2026/F2026055.pdf> | 2026-11-02 | Not protected by copyright: Ordonnance n° 03-05 du 19 juillet 2003, art. 11 (laws and their official translations). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -30,8 +38,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `constitution` | Constitution de la République algérienne démocratique et populaire (révision de 2020) | 1 | 2020-12-30 to 2020-12-30 |
-| `code-penal` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 | 11 | 2005-08-23 to 2024-04-30 |
+| `constitution` | Constitution de la République algérienne démocratique et populaire (révision de 2020) | 2 | 2020-12-30 to 2026-03-26 |
+| `code-penal` | Code pénal (Ordonnance n° 66-156 du 8 juin 1966), édition du ministère de la Justice, 2005 | 12 | 2005-08-23 to 2026-10-13 |
 | `code-procedure-civile-administrative` | Code de procédure civile et administrative (Loi n° 08-09 du 25 février 2008) | 2 | 2009-04-23 to 2022-07-17 |
 | `code-procedure-penale` | Code de procédure pénale (Loi n° 25-14 du 3 août 2025) | 1 | 2025-08-13 to 2025-08-13 |
 | `code-organisation-penitentiaire` | Code de l'organisation pénitentiaire et de la réinsertion sociale des détenus (Loi n° 05-04 du 6 février 2005) | 1 | 2005-02-13 to 2005-02-13 |
@@ -43,22 +51,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wilaya` | Loi n° 12-07 du 21 février 2012 relative à la wilaya | 1 | 2012-02-29 to 2012-02-29 |
 | `protection-enfant` | Loi n° 15-12 du 15 juillet 2015 relative à la protection de l'enfant | 1 | 2015-07-19 to 2015-07-19 |
 | `sante` | Loi n° 18-11 du 2 juillet 2018 relative à la santé | 1 | 2018-07-29 to 2018-07-29 |
-| `regime-electoral` | Ordonnance n° 21-01 du 10 mars 2021 portant loi organique relative au régime électoral | 1 | 2021-03-10 to 2021-03-10 |
+| `regime-electoral` | Ordonnance n° 21-01 du 10 mars 2021 portant loi organique relative au régime électoral | 2 | 2021-03-10 to 2026-04-04 |
 | `investissement` | Loi n° 22-18 du 24 juillet 2022 relative à l'investissement | 1 | 2022-07-28 to 2022-07-28 |
+| `regles-generales-services-confiance-pour-transactions` | Loi n° 26-02 du 17 février 2026 fixant les règles générales relatives aux services de confiance pour les transactions électroniques et à l'identification électronique | 1 | 2026-02-18 to 2026-02-18 |
+| `statut-magistrature` | Loi organique n° 26-03 du 23 mars 2026 portant statut de la magistrature | 1 | 2026-03-29 to 2026-03-29 |
+| `circonscriptions-electorales-nombre-sieges-pourvoir-parlement` | Loi n° 26-07 du 8 avril 2026 fixant les circonscriptions électorales et le nombre de sièges à pourvoir au Parlement | 1 | 2026-04-09 to 2026-04-09 |
+| `partis-politiques-2026` | Loi organique n° 26-08 du 23 avril 2026 relative aux partis politiques | 1 | 2026-04-23 to 2026-04-23 |
+| `code-route` | Loi n° 26-09 du 12 mai 2026 portant code de la route | 1 | 2026-05-17 to 2026-05-17 |
+| `criminalisation-colonisation-francaise-algerie` | Loi n° 26-10 du 12 mai 2026 relative à la criminalisation de la colonisation française de l'Algérie | 1 | 2026-05-20 to 2026-05-20 |
+| `code-justice-militaire` | Ordonnance n° 26-01 du 27 juillet 2026 portant code de justice militaire | 1 | 2026-07-27 to 2026-07-27 |
 
-The build made 26 commits:
+The build made 36 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 15 | first version of an act |
-| 11 | one law on its in-force day |
+| 22 | first version of an act |
+| 14 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futur`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `futur`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 27 laws in the record.
-- 51 tags.
+- 37 laws in the record.
+- 71 tags.
 
 ## Dates
 
@@ -70,7 +85,7 @@ When a law gives no date of its own, the default rule applies: A law takes effec
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7d171122c1e6e4507159c92b66299f758b7ac6de72e2243c2291343cd7c11737` (3072718 bytes).
+- Corpus: sha256 `d18cc0229d9a399171280a4073f9124dfbdf339fff53d76bc9758f7e5954ee32` (3782341 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -94,6 +109,7 @@ No second build of this corpus has been compared yet.
 - code-procedure-civile-administrative: headings (livres, titres, chapitres, sections) are not units; each article is one file.
 - code-procedure-penale: the code of 2025 (Loi n° 25-14) as enacted, dated by its publication (13 August 2025) under the default rule; the earlier code of 1966 and its amendments are not included.
 - Statutes (50-statutes): each law as enacted, from the Journal Officiel issue that printed it, dated by that issue unless the law sets its own commencement day; later amendments to these laws are not yet applied.
+- Statutes (60-auto-statutes): laws and ordinances found in the tables of contents of the Journal Officiel issues (2000 on), each as enacted from the issue that printed it and dated by that issue; built only when its articles run 1..N without a gap and it ends with the publication article. Later amending laws whose title names the law are applied in gazette order, and the chain stops at the first amending law whose articles cannot all be found.
 
 ## What AI did and did not do
 
@@ -104,6 +120,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code wrote the parsing code and chose the sources; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the parsing code and chose the sources; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the parsing code and chose the sources; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the parsing code and chose the sources; it did not write or alter any legal text. The code is deterministic and runs no model.
