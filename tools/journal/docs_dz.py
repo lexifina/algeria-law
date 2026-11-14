@@ -28,26 +28,28 @@ def rows():
 
 
 t = (REPO / 'README.md').read_text(encoding='utf-8').replace('\r\n', NL)
-t = re.sub(r'\| Folder \| Act \|[^\n]*\n\| --- [^\n]*\n(?:\|[^\n]*\n?)+', rows() + NL, t, count=1)
-SRC_J = ("**Source (amending laws).** Journal Officiel de la République Algérienne, French edition, one issue per amending law, "
-         "from https://www.joradp.dz, retrieved 2 November 2026 (text layer, no OCR). Each version applies the articles the law "
-         "gives in full; where the gazette leaves part of an article \"(sans changement)\" it is filled in from the earlier text, "
-         "and the few articles where that could not be matched keep their earlier text (the version's commit message lists them).")
-if '**Source (amending laws).**' not in t:
-    t = t.replace('**Source (Constitution).**', SRC_J + NL + NL + '**Source (Constitution).**', 1)
-t = re.sub(r'Each commit is dated at noon, Africa/Algiers, on the day the change took effect\.[^\n]*',
-           'Each commit is dated at noon, Africa/Algiers, on the day the change took effect. The Constitution of 2020 took effect on its '
-           'promulgation and publication, 30 December 2020. An amending law is dated by the issue of the Journal Officiel that printed it '
-           '(a law takes effect on publication), unless the law itself sets a later day. Earlier constitutions are not in this record.', t, count=1)
-t = t.replace('The one version here is credited to the promulgating decree, Décret présidentiel n° 20-442.',
-              'The Constitution is credited to its promulgating decree (Décret présidentiel n° 20-442), and each later version of a code to the amending law printed in the Journal Officiel. A first version that is not the act as enacted is credited to its publisher as the oldest version available.')
-lim = ("This is a partial build: the Constitution as promulgated in December 2020; the Code pénal from the 2005 Ministry edition "
-       "with the amending laws of 2006 to 2024; the Code de procédure civile et administrative (2008, amended 2022); the Code de "
-       "procédure pénale of 2025; and " + str(len(c['acts']) - 4) + " other statutes, each as enacted, with the later amending laws whose articles could all be matched. Amendments that change only some alinéas, phrases or words are applied only where "
-       "the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil "
-       "and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.")
-t = re.sub(r'(## Limits\n\n)[^\n]*', lambda m: m.group(1) + lim, t, count=1)
-(REPO / 'README.md').write_text(t, encoding='utf-8', newline=NL)
+# Since 2026-11-14 the README is on the serbia-law model, with its counts written by hand: it is left as it is.
+if '## Questions as git commands' not in t:
+    t = re.sub(r'\| Folder \| Act \|[^\n]*\n\| --- [^\n]*\n(?:\|[^\n]*\n?)+', rows() + NL, t, count=1)
+    SRC_J = ("**Source (amending laws).** Journal Officiel de la République Algérienne, French edition, one issue per amending law, "
+             "from https://www.joradp.dz, retrieved 2 November 2026 (text layer, no OCR). Each version applies the articles the law "
+             "gives in full; where the gazette leaves part of an article \"(sans changement)\" it is filled in from the earlier text, "
+             "and the few articles where that could not be matched keep their earlier text (the version's commit message lists them).")
+    if '**Source (amending laws).**' not in t:
+        t = t.replace('**Source (Constitution).**', SRC_J + NL + NL + '**Source (Constitution).**', 1)
+    t = re.sub(r'Each commit is dated at noon, Africa/Algiers, on the day the change took effect\.[^\n]*',
+               'Each commit is dated at noon, Africa/Algiers, on the day the change took effect. The Constitution of 2020 took effect on its '
+               'promulgation and publication, 30 December 2020. An amending law is dated by the issue of the Journal Officiel that printed it '
+               '(a law takes effect on publication), unless the law itself sets a later day. Earlier constitutions are not in this record.', t, count=1)
+    t = t.replace('The one version here is credited to the promulgating decree, Décret présidentiel n° 20-442.',
+                  'The Constitution is credited to its promulgating decree (Décret présidentiel n° 20-442), and each later version of a code to the amending law printed in the Journal Officiel. A first version that is not the act as enacted is credited to its publisher as the oldest version available.')
+    lim = ("This is a partial build: the Constitution as promulgated in December 2020; the Code pénal from the 2005 Ministry edition "
+           "with the amending laws of 2006 to 2024; the Code de procédure civile et administrative (2008, amended 2022); the Code de "
+           "procédure pénale of 2025; and " + str(len(c['acts']) - 4) + " other statutes, each as enacted, with the later amending laws whose articles could all be matched. Amendments that change only some alinéas, phrases or words are applied only where "
+           "the gazette's wording can be matched to the earlier text; headings of chapters and sections are not recorded. The Code civil "
+           "and the Code de commerce (1975) are printed in gazettes that are scanned images and are not yet included; the rest of Algerian law is not included.")
+    t = re.sub(r'(## Limits\n\n)[^\n]*', lambda m: m.group(1) + lim, t, count=1)
+    (REPO / 'README.md').write_text(t, encoding='utf-8', newline=NL)
 
 L = (REPO / 'LICENSE').read_text(encoding='utf-8').replace('\r\n', NL)
 LIC = ("The amending laws are the texts printed in the Journal Officiel de la République Algérienne (French edition), Secrétariat "
