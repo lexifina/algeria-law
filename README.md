@@ -1,35 +1,41 @@
-# Algeria: law history in git
+# Algérie : l’historique du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of Algeria as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit algérien dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Algeria's national law, which global-law reads at `algeria/national/acts/`.
+Le droit algérien sous forme d’historique git : un fichier par article, un commit par version au jour de son entrée en vigueur, et pour auteur de chaque commit la loi qui a apporté la modification. `git blame` désigne la loi à l’origine de chaque alinéa ; `git log` énumère toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** the Constitution (as revised in 2020, with its revision of 26 March 2026), six codes and 148 other laws, organic laws and ordinances published from 2002 to 2026: 155 acts with 172 versions. The Code pénal has 12 versions, from the Ministry of Justice's 2005 edition through eleven amending laws and ordinances to October 2026; 148 acts are here only as enacted. [`data/laws.csv`](data/laws.csv) lists the 195 laws the record names, with their dates and sources.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national algérien, que global-law lit dans `algeria/national/acts/`.
 
-Each act is a folder with one file per article: the Constitution is in `constitution/constitution/`, the six codes in `code/<name>/` (`code/code-penal/` is the Code pénal), and every other act in `<kind>/<year>/<number>/` (`loi/2023/23-08/` is Loi n° 23-08 of 21 June 2023 on collective labour disputes and the right to strike). Until 11 November 2026 each folder was named by the act's id (`code-penal/`); [`data/paths.json`](data/paths.json) maps each id to its folder, and the version tags (`code-penal/2014-02-16`) keep the ids.
+**Contenu actuel :** la Constitution (telle que révisée en 2020, avec sa révision du 26 mars 2026), six codes et 148 autres lois, lois organiques et ordonnances publiées de 2002 à 2026 : 155 textes et 172 versions. Le Code pénal compte 12 versions, de l’édition 2005 du ministère de la Justice jusqu’à octobre 2026, à travers onze lois et ordonnances modificatives ; 148 textes ne figurent ici que tels qu’adoptés. [`data/laws.csv`](data/laws.csv) énumère les 195 lois que mentionne le registre, avec leurs dates et leurs sources.
 
-The text is in French, as the French edition of the Journal Officiel prints it. The Arabic original and an English translation are not part of this record.
+Chaque texte est un dossier comportant un fichier par article : la Constitution se trouve dans `constitution/constitution/`, les six codes dans `code/<name>/` (`code/code-penal/` est le Code pénal), et tout autre texte dans `<kind>/<year>/<number>/` (`loi/2023/23-08/` est la loi n° 23-08 du 21 juin 2023 sur les conflits collectifs de travail et le droit de grève). Jusqu’au 11 novembre 2026, chaque dossier portait l’identifiant du texte (`code-penal/`) ; [`data/paths.json`](data/paths.json) fait correspondre chaque identifiant à son dossier, et les tags de version (`code-penal/2014-02-16`) conservent les identifiants.
 
-## Questions as git commands
+Le texte est en français, tel que l’imprime l’édition française du Journal officiel. L’original arabe et une traduction anglaise ne font pas partie de ce registre.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 87 bis of the Code pénal | `git log -p --follow --word-diff -- code/code-penal/art-087-bis.md` |
-| Which law wrote each line of Article 87 bis? | `git blame code/code-penal/art-087-bis.md` |
-| Every version of the Code pénal, with the day each took effect | `git log --no-walk --tags="code-penal/*" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
-| Article 87 bis as in force from 16 February 2014 | `git show code-penal/2014-02-16:code-penal/art-087-bis.md` |
+| Toutes les modifications de l’article 87 bis du Code pénal | `git log -p --follow --word-diff -- code/code-penal/art-087-bis.md` |
+| Quelle loi a écrit chaque ligne de l’article 87 bis ? | `git blame code/code-penal/art-087-bis.md` |
+| Toutes les versions du Code pénal, avec le jour d’entrée en vigueur de chacune | `git log --no-walk --tags="code-penal/*" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
+| L’article 87 bis tel qu’en vigueur à compter du 16 février 2014 | `git show code-penal/2014-02-16:code-penal/art-087-bis.md` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce registre publiquement, gratuitement :
 
-- **[Ask Claude about Algerian law](https://global-law.lexifina.com/v1/try_claude?country=algeria)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=algeria)**: the same question in ChatGPT.
-- **[Search Algerian law on our site](https://lexifina.com/law?country=algeria&q=pension+alimentaire)**: a search for "pension alimentaire", with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=pension+alimentaire&jurisdiction=algeria)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit algérien](https://global-law.lexifina.com/v1/try_claude?country=algeria)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=algeria)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit algérien sur notre site](https://lexifina.com/law?country=algeria&q=pension+alimentaire)** : une recherche de « pension alimentaire », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour les développeurs](https://global-law.lexifina.com/v1/search_law?query=pension+alimentaire&jurisdiction=algeria)** : la même recherche en JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le registre au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,55 +43,57 @@ python3 tools/countries.py add algeria/national/acts
 python3 tools/law.py show 2026-01-01 algeria/national/acts/code/code-penal/art-087-bis.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone lance aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Algiers, on the day the version took effect, and carries it in its `In-force:` trailer:
+Chaque commit est daté à midi, heure d’Alger (Africa/Algiers), du jour où la version est entrée en vigueur, et porte ce jour dans son trailer `In-force:` :
 
-- a law or ordinance takes effect on publication, so each version is dated by the issue of the Journal Officiel that printed it; a commencement clause inside a law is not applied, except for the Code de procédure civile et administrative, dated 23 April 2009, the day its article 1062 sets (one year after publication);
-- the Constitution of 2020 took effect on its promulgation and publication, 30 December 2020;
-- the first version of the Code pénal is dated 23 August 2005, the last amending text the Ministry's edition includes (Ordonnance n° 05-06); the edition itself carries no day.
+- une loi ou une ordonnance entre en vigueur dès sa publication ; chaque version est donc datée du numéro du Journal officiel qui l’a publiée ; une clause d’entrée en vigueur contenue dans une loi n’est pas appliquée, sauf pour le Code de procédure civile et administrative, daté du 23 avril 2009, jour que fixe son article 1062 (un an après sa publication) ;
+- la Constitution de 2020 est entrée en vigueur lors de sa promulgation et de sa publication, le 30 décembre 2020 ;
+- la première version du Code pénal est datée du 23 août 2005, date du dernier texte modificatif que comprend l’édition du ministère (ordonnance n° 05-06) ; l’édition elle-même ne porte aucune date.
 
-Acts were added in batches, so `git log` over the whole repository is not in date order; the `In-force:` trailer gives each version's day.
+Les textes ont été ajoutés par lots ; `git log` sur l’ensemble du dépôt ne suit donc pas l’ordre chronologique ; le trailer `In-force:` donne le jour de chaque version.
 
-Each version is credited to the law that made it (`Loi n° 24-06 <loi-24-06@joradp.invalid>`), the Constitution of 2020 to its promulgating decree (Décret présidentiel n° 20-442), and the Code pénal's 2005 text, the oldest version available, to its publisher. The committer is Lexifina.
+Chaque version est attribuée à la loi qui l’a faite (`Loi n° 24-06 <loi-24-06@joradp.invalid>`), la Constitution de 2020 à son décret de promulgation (décret présidentiel n° 20-442), et le texte de 2005 du Code pénal, la plus ancienne version disponible, à son éditeur. Le committer est Lexifina.
 
-## How it is checked
+## Comment il est vérifié
 
-- Before a batch is pushed, every version is read back from git on the day it took effect and on the day before and must match the corpus it was built from, file by file (`tools/check_repo.py`).
-- Every paragraph of an amended article must occur either in the gazette issue's own text or in the article's earlier text (`tools/journal/verify_dz.py`); each version's commit message names the articles that could not be applied.
-- The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256 and the builders' blob hashes.
-- History is append-only: no merge commits, no rewriting, no commit dated in the future, and every commit's trailers parse.
+- Avant l’envoi d’un lot, chaque version est relue depuis git au jour de son entrée en vigueur et la veille, et doit correspondre, fichier par fichier, au corpus à partir duquel elle a été construite (`tools/check_repo.py`).
+- Chaque alinéa d’un article modifié doit figurer soit dans le texte même du numéro du journal officiel, soit dans le texte antérieur de l’article (`tools/journal/verify_dz.py`) ; le message de commit de chaque version nomme les articles qui n’ont pas pu être appliqués.
+- Le même corpus donne toujours les mêmes empreintes de commit ; [`REPRODUCE.md`](REPRODUCE.md) indique le sha256 du corpus et les empreintes des blobs des scripts de construction.
+- L’historique ne fait l’objet que d’ajouts : aucun commit de fusion, aucune réécriture, aucun commit daté dans le futur, et les trailers de chaque commit se lisent sans erreur.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **Most of Algerian law.** Besides the Code pénal, only laws published since 2002 are here, and of those only the ones whose gazette text could be read whole. The Code civil and the Code de commerce (1975), printed in gazettes that are scanned images, are not yet; nor are decrees, other regulations or case law.
-- **Later amendments, for most acts.** Amending laws are applied to some acts only, and only when every article they name can be found; a change to part of an article (an alinéa, a phrase, a word) only where its wording matches the earlier text. A text here may not be the one in force.
-- **Repeals.** An act a later law repealed stays as enacted: Loi organique n° 16-10 on the electoral system is still here, although Ordonnance n° 21-01 (article 320) repealed it.
-- **Earlier texts:** constitutions before 2020, the Code pénal before its 2005 edition, and the Code de procédure pénale of 1966 that the code of 2025 replaced.
-- **Headings and footnotes.** Titles of books, chapters and sections are not recorded, nor the footnotes of the Code pénal's edition.
+- **La majeure partie du droit algérien.** Outre le Code pénal, seules figurent ici des lois publiées depuis 2002, et parmi celles-ci uniquement celles dont le texte au journal officiel a pu être lu en entier. Le Code civil et le Code de commerce (1975), imprimés dans des numéros numérisés en image, n’y figurent pas encore ; ni les décrets, ni les autres textes réglementaires, ni la jurisprudence.
+- **Les modifications ultérieures, pour la plupart des textes.** Les lois modificatives ne sont appliquées qu’à certains textes, et seulement lorsque chaque article qu’elles visent peut être retrouvé ; une modification d’une partie d’article (un alinéa, une phrase, un mot) ne l’est que lorsque sa rédaction concorde avec le texte antérieur. Un texte figurant ici peut ne pas être celui en vigueur.
+- **Les abrogations.** Un texte abrogé par une loi ultérieure reste tel qu’adopté : la loi organique n° 16-10 relative au régime électoral figure toujours ici, bien que l’ordonnance n° 21-01 (article 320) l’ait abrogée.
+- **Les textes antérieurs :** les constitutions antérieures à 2020, le Code pénal avant son édition de 2005, et le Code de procédure pénale de 1966, que le code de 2025 a remplacé.
+- **Les intitulés et les notes de bas de page.** Les intitulés des livres, chapitres et sections ne sont pas enregistrés, pas plus que les notes de bas de page de l’édition du Code pénal.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal Officiel de la République Algérienne](https://www.joradp.dz) (Secrétariat Général du Gouvernement) | Official gazette, French edition | no consolidated texts: each law as printed; later versions apply the amending laws | The Constitution, every act as enacted and every amending law, from the text layer of each issue's PDF (no OCR) |
-| [UNODC SHERLOC](https://sherloc.unodc.org): Ministère de la Justice, Code pénal, 4th edition (ONTE, 2005) | Official edition, French and Arabic (the French column is used) | its 2005 text only | The Code pénal's first version |
+| [Journal Officiel de la République Algérienne](https://www.joradp.dz) (Secrétariat Général du Gouvernement) | Journal officiel, édition française | pas de textes consolidés : chaque loi telle que publiée ; les versions ultérieures appliquent les lois modificatives | La Constitution, chaque texte tel qu’adopté et chaque loi modificative, à partir de la couche texte du PDF de chaque numéro (sans OCR) |
+| [UNODC SHERLOC](https://sherloc.unodc.org) : Ministère de la Justice, Code pénal, 4e édition (ONTE, 2005) | Édition officielle, en français et en arabe (la colonne française est utilisée) | son seul texte de 2005 | La première version du Code pénal |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Official texts are not protected by copyright in Algeria: Ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d'auteur et aux droits voisins, article 11, excludes laws, regulations and their official translations. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes officiels ne sont pas protégés par le droit d’auteur en Algérie : l’ordonnance n° 03-05 du 19 juillet 2003 relative aux droits d’auteur et aux droits voisins, en son article 11, exclut les lois, les règlements et leurs traductions officielles. Les contributions propres de Lexifina (l’agencement de l’historique, les messages de commit, les tableaux et les outils) sont versées au domaine public sous CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## More
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## En savoir plus
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
