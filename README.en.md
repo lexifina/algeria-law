@@ -88,7 +88,13 @@ No AI model wrote, translated or corrected legal text, and none runs at build ti
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Algerian law in 20 charts, drawn from this repository.
+
+Including:
+
+- the size and numbering of the texts, the time from their signature to the Journal officiel, and the month ordinances are signed;
+- what the Constitution leaves to legislation and its latest revision, the organic laws, and the Penal Code article by article, from the death penalty to fines;
+- what the texts repeal and take over, what the repository applies after enactment, and the penalties, time limits and ranges of imprisonment the texts set.
 
 ## More
 

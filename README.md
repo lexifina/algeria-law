@@ -90,7 +90,13 @@ Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ;
 
 ## Visualisations
 
-- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
+[visualisations/](visualisations/) : le droit algérien en 20 graphiques, tirés de ce dépôt.
+
+Notamment :
+
+- la taille et la numérotation des textes, le délai entre leur signature et le Journal officiel, et le mois où sont signées les ordonnances ;
+- les renvois de la Constitution à la loi et sa dernière révision, les lois organiques, et le Code pénal article par article, de la peine de mort aux amendes ;
+- ce que les textes abrogent et ce qu’ils reprennent, ce que le dépôt applique après l’adoption, et les peines, délais et fourchettes d’emprisonnement que fixent les textes.
 
 ## En savoir plus
 
