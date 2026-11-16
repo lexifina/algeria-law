@@ -63,6 +63,7 @@ Each version is credited to the law that made it (`Loi n° 24-06 <loi-24-06@jora
 - Every paragraph of an amended article must occur either in the gazette issue's own text or in the article's earlier text (`tools/journal/verify_dz.py`); each version's commit message names the articles that could not be applied.
 - The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256 and the builders' blob hashes.
 - History is append-only: no merge commits, no rewriting, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Algerian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

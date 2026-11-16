@@ -63,6 +63,7 @@ Chaque version est attribuée à la loi qui l’a faite (`Loi n° 24-06 <loi-24-
 - Chaque alinéa d’un article modifié doit figurer soit dans le texte même du numéro du journal officiel, soit dans le texte antérieur de l’article (`tools/journal/verify_dz.py`) ; le message de commit de chaque version nomme les articles qui n’ont pas pu être appliqués.
 - Le même corpus donne toujours les mêmes empreintes de commit ; [`REPRODUCE.md`](REPRODUCE.md) indique le sha256 du corpus et les empreintes des blobs des scripts de construction.
 - L’historique ne fait l’objet que d’ajouts : aucun commit de fusion, aucune réécriture, aucun commit daté dans le futur, et les trailers de chaque commit se lisent sans erreur.
+- [vulnerabilities/](vulnerabilities/) : erreurs de rédaction possibles du droit algérien, relevées par les détecteurs de global-law et vérifiées à la main.
 
 ## Ce qu’il ne montre pas
 
